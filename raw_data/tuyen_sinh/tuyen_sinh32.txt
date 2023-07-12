@@ -1,0 +1,2 @@
+Có thể học về trí tuệ nhân tạo trong ngành KTMT không?
+Hoàn toàn có thể, sinh viên có thể phát triển được các hệ thống dựa trên trí tuệ nhân tạo như: nhận dạng đối tượng (gương mặt, biển số xe, làn đường,…); nhận dạng phân tích âm thanh (giọng nói, nhạc,…); phân tích các hành vi bất thường trên môi trường mạng tốc độ cao; phát triển các hệ thống dựa trên AI cho các ngành khác (hệ điều khiển tín hiệu giao, phân tích hệ gen của virus, nhận dang bệnh cây trồng).

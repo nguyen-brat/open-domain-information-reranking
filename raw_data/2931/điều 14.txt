@@ -1,0 +1,33 @@
+Điều 14.Đánh giá và tính điểm học phần
+14.1 Điểm thành phần
+Đối với mỗi học phần, người học được đánh giá qua tối thiểu hai điểm thành phần. Đối
+với các học phần có khối lượng nhỏ hơn 02 tín chỉ có thể chỉ có một điểm đánh giá.
+Phương pháp đánh giá, hình thức đánh giá và trọng số của mỗi điểm thành phần được
+quy định trong đề cương chi tiết của mỗi học phần.
+Các điểm thành phần được đánh giá theo thang điểm 10, làm tròn đến 0,5.
+14.2 Tính điểm học phần
+Điểm học phần được tính từ tổng các điểm thành phần nhân với trọng số tương ứng,
+làm tròn tới một chữ số thập phân và xếp loại điểm chữ như dưới đây, trừ các trường
+hợp được quy định tại khoản 14.3 này.
+a) Loại đạt có phân mức, áp dụng cho các học phần được tính vào điểm trung bình học
+tập, bao gồm:
+A+: từ 9,5 đến 10,0;
+A : từ 8,5 đến 9,4;
+B+: từ 8,0 đến 8,4;
+B : từ 7,0 đến 7,9;
+C+: từ 6,5 đến 6,9;
+C : từ 5,5 đến 6,4;
+D+: từ 5,0 đến 5,4;
+D : từ 4,0 đến 4,9.
+b) Loại đạt không phân mức, áp dụng cho các học phần chỉ yêu cầu đạt, không tính
+vào điểm trung bình học tập:
+P: từ 5,0 trở lên.
+c) Loại không đạt:
+F: dưới 4,0.
+14.3 Điểm đặc biệt
+Một số trường hợp đặc biệt sử dụng các điểm chữ xếp loại, không được tính vào điểm
+trung bình học tập:
+I: Điểm chưa hoàn thiện do được phép hoãn thi, kiểm tra;
+X: Điểm chưa hoàn thiện do chưa đủ dữ liệu;
+W: Điểm học phần đã rút đăng ký học, không công nhận tín chỉ;
+R: Điểm học phần được miễn học và công nhận tín chỉ.

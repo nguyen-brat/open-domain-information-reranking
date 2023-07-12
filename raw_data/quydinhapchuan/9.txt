@@ -1,0 +1,10 @@
+SV trình độ năm 3
+
+SV chỉ được đăng ký môn trình độ thuộc năm
+1, 2, 3, 4
+
+1- Đạt số tín chỉ tích lũy >= 56
+2- Đạt chuẩn ngoại ngữ năm thứ 3 (CCAS_2)
+3- Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản (CNTTCB)
+4- Hoàn thành chương trình Giáo dục quốc phòng-An ninh
+5- Hoàn thành chương trình Giáo dục thể chất

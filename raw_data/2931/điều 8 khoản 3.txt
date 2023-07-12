@@ -1,0 +1,15 @@
+8.3 Quy trình xếp thời khóa biểu
+Khoảng giữa học kỳ trước, các Khoa gửi kế hoạch giảng dạy học kỳ, là danh sách các
+học phần sẽ mở trong một học kỳ và có thể là số nhóm lớp mở cho các học phần đó,
+và phân bố tiết giảng mỗi tuần, hình thức và thời lượng kiểm tra, thi của các học phần
+cho các phòng đào tạo. Các đơn vị liên quan (Khoa và Phòng Quản trị Thiết bị) cập
+nhật các số liệu về phòng học và các loại phòng học cho các phòng đào tạo.
+Giao cho Phòng Đào tạo phụ trách quỹ phòng chung toàn trường và phân bổ phù hợp
+với nhu cầu chung của toàn trường cho các phòng đào tạo, ngoại trừ các trường hợp
+đã được giao quyền quản lý riêng cho các đơn vị.
+Các phòng đào tạo tổ chức cho người học đăng ký học phần lần thứ nhất.
+Căn cứ trên nhu cầu của người học và kế hoạch của các Khoa, các phòng đào tạo xếp
+thời khoá biểu phù hợp nhất đảm bảo tối đa quyền lợi của người học và phù hợp với
+kế hoạch của các Khoa.
+Các phòng đào tạo thông báo kết quả xếp đăng ký học phần và thời khoá biểu cho
+người học và có thể cho phép người học điều chỉnh đăng ký học phần.

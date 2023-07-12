@@ -1,0 +1,18 @@
+19.2 Đánh giá bằng hình thức vấn đáp
+Vấn đáp là hình thức đánh giá bằng cách giảng viên hỏi và người học phát biểu trả
+lời. Phải có ít nhất 02 giảng viên cùng chấm vấn đáp cho mỗi người học.
+Trường hợp điểm vấn đáp theo thang điểm số, điểm tổng kết của người học là trung
+bình cộng của các giảng viên chấm thi, được làm tròn tới một số lẻ. Trường hợp điểm
+của các giảng viên chấm thi lệch quá 02 điểm (thang điểm 10), các giảng viên cần
+thống nhất lại. Trường hợp điểm thi vấn đáp theo thang điểm khác như Đạt/Không
+đạt, ... các giảng viên phải thống nhất kết quả cuối cùng hoặc quy đổi về thang điểm
+số, tính trung bình cộng và quy về thang điểm ban đầu. Trong trường hợp các giảng
+viên chấm thi không thống nhất được điểm cuối cùng, các giảng viên trình Chủ nhiệm
+Bộ môn quyết định kết quả cuối cùng.
+Trong phòng đánh giá, giảng viên lần lượt gọi người học bốc thăm đề thi, và cho phép
+người học có nhiều nhất là 10 phút chuẩn bị trước khi được gọi lên trình bày. Các
+giảng viên chấm thi được phép đặt câu hỏi thêm ngoài các câu hỏi ghi trong đề thi để
+làm rõ hơn phần trả lời của người học. Các câu hỏi sẽ được đưa ra sao cho giảng viên
+có thể đánh giá được mức độ đáp ứng chuẩn đầu ra của người học đối với học phần
+và cho điểm theo thang điểm quy định.
+Kết quả chấm vấn đáp phải công bố công khai cho người học sau mỗi buổi thi.

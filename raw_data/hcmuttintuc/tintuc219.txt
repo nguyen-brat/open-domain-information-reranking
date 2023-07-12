@@ -1,0 +1,2 @@
+hướng dẫn bật tính năng xác minh 2 bước từ tài khoản mail trường
+gần đây, google cho biết tính năng xác thực hai bước mà công ty triển khai đã thể hiện hiệu quả trong việc bảo vệ dữ liệu cá nhân cho người dùng. do vậy, google yêu cầu người dùng phải bật tính năng xác minh 2 bước.

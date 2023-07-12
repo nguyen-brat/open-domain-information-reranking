@@ -1,0 +1,7 @@
+Bảng quy đổi điểm chứng chỉ VSTEP
+
+	Anh văn 1	Anh văn 2	Anh văn 3	Anh văn 4
+4.0	Đạt
+4.5	Đạt		Đạt
+5.0	Đạt		Đạt		Đạt
+5.5	Đạt		Đạt		Đạt		Đạt

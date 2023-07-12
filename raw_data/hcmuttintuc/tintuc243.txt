@@ -1,0 +1,2 @@
+nghiên cứu về giao thông thông minh của giảng viên, sinh viên trường đh bách khoa nhận hàng loạt giải thưởng về đổi mới sáng tạo khởi nghiệp năm 2021
+hệ thống dự báo tình trạng giao thông đô thị dựa vào dữ liệu từ cộng đồng (utraffic: urban traffic estimation system) của nhóm giảng viên, sinh viên trường đh bách khoa do pgs.ts trần minh quang - giảng viên khoa khoa học và kỹ thuật máy tính và các thành viên đã đạt được nhiều giải về đổi mới sáng tạo khởi nghiệp tại tp.hcm trong năm 2021.

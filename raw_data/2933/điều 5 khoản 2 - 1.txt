@@ -1,0 +1,5 @@
+5.2 Đăng ký học phần ở bậc cao học để miễn học phần bậc đại học
+Trong chương trình liên thông Đại học-Thạc sĩ, một số học phần bậc cao học có thể
+thay thế cho một số học phần tương ứng ở bậc đại học. Các học phần này
+sẽ được đưa vào danh sách đăng ký học phần của sinh viên, không hiển thị thời khoá
+biểu, được tính vào số tín chỉ đăng ký của học kỳ, không tính học phí ở bậc đại học.

@@ -1,0 +1,7 @@
+6.1 Tổ chức các học kỳ
+Trường tổ chức hai học kỳ chính trong một năm học. Mỗi học kỳ bao gồm 15 tuần học và
+2 đến 3 tuần đánh giá học phần. Bên cạnh đó, trường có thể tổ chức thêm một học kỳ phụ
+trong thời gian hè.
+Ký hiệu các học kỳ có dạng HKYYS, trong đó YY là hai số cuối của năm và S là số
+thứ tự học kỳ. Ví dụ: HK211, HK212 và HK213 là các học kỳ 1, học kỳ 2 và học kỳ
+hè của năm học 2021-2022.

@@ -1,0 +1,3 @@
+8.2 Khung giờ xếp thời khóa biểu
+Xếp giờ thời khoá biểu phải giống với từng loại hình lớp và các học kỳ như
+trong Biểu đồ học tập.

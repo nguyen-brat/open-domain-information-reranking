@@ -1,0 +1,16 @@
+2. Học phần
+Một học phần được tổ chức trọn vẹn trong một kỳ. Kiến thức trong mỗi học
+phần phải được phân theo cấp độ học phần, gắn với một mức trình độ theo năm
+học thiết kế. Cấp độ học phần được hiểu như sau: Một là các học phần chung
+dành cho người học ở tất cả các năm học (người học từ năm thứ nhất), Hai là
+các học phần cơ sở ngành bậc cử nhân (người học từ năm thứ hai), Ba là các
+học phần ngành ở bậc cử nhân (người học từ năm thứ ba), Bốn là các học phần
+ngành/chuyên ngành/khoá luận tốt nghiệp ở bậc cử nhân (người học từ năm thứ
+tư), Năm trở lên là các học phần ở bậc chuyên sâu đặc thù (người học từ năm
+thứ năm trong chương trình tích hợp từ bậc cử nhân lên bậc cao hơn, chương
+trình Kỹ sư Chất lượng cao Việt Pháp), ở bậc thạc sĩ và bậc tiến sĩ.
+Mỗi học phần có khối lượng 3-4 tín chỉ. Các học phần thuộc khối kiến thức giáo
+dục chung, luận văn tốt nghiệp, luận văn thạc sĩ, luận án tiến sĩ có quy định
+riêng về khối lượng tín chỉ. Các học phần thực hành có thể ít hơn 3 tín chỉ.
+Nội dung một học phần có thể bao gồm giảng dạy lý thuyết và thực hành, trong
+đó phần thực hành đảm bảo tối thiểu 20% khối lượng (tín chỉ) học phần.

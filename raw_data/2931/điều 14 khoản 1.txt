@@ -1,0 +1,6 @@
+14.1 Điểm thành phần
+Đối với mỗi học phần, người học được đánh giá qua tối thiểu hai điểm thành phần. Đối
+với các học phần có khối lượng nhỏ hơn 02 tín chỉ có thể chỉ có một điểm đánh giá.
+Phương pháp đánh giá, hình thức đánh giá và trọng số của mỗi điểm thành phần được
+quy định trong đề cương chi tiết của mỗi học phần.
+Các điểm thành phần được đánh giá theo thang điểm 10, làm tròn đến 0,5.

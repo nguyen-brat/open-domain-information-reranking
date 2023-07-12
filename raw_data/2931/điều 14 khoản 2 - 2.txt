@@ -1,0 +1,16 @@
+14.2 Tính điểm học phần
+a) Loại đạt có phân mức, áp dụng cho các học phần được tính vào điểm trung bình học
+tập, bao gồm:
+A+: từ 9,5 đến 10,0;
+A : từ 8,5 đến 9,4;
+B+: từ 8,0 đến 8,4;
+B : từ 7,0 đến 7,9;
+C+: từ 6,5 đến 6,9;
+C : từ 5,5 đến 6,4;
+D+: từ 5,0 đến 5,4;
+D : từ 4,0 đến 4,9.
+b) Loại đạt không phân mức, áp dụng cho các học phần chỉ yêu cầu đạt, không tính
+vào điểm trung bình học tập:
+P: từ 5,0 trở lên.
+c) Loại không đạt:
+F: dưới 4,0.

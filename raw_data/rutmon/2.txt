@@ -1,0 +1,4 @@
+3. Quy trình xử lý:
+
+Sau hạn cuối theo "thông báo gởi qua tin nhắn Bkel vào đầu học kỳ", PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học. Sau đó PHÒNG ĐÀO TẠO  sẽ cập nhật điểm Rút (điểm RT hoặc điểm 17) tại trang web: mybk.hcmut.edu.vn  >> Thông tin sinh viên >> Bảng điểm.
+Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần.

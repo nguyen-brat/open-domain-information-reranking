@@ -1,0 +1,24 @@
+Quy trình:
+
+- PHÒNG ĐÀO TẠO sẽ chuyển yêu cầu phúc tra đến các Khoa/Bộ môn để chuyển đến Giảng viên. Sau khi chấm phúc tra, Giảng viên gửi kết quả đến Phòng Đào tạo. Nếu có thay đổi, Giảng viên sẽ cập nhật trên hệ thống nhập điểm và nộp bảng điểm sau khi phúc tra đến PHÒNG ĐÀO TẠO để cập nhật điểm cho sinh viên.
+
+- Những môn không được phúc tra: môn thi trắc nghiệm, môn thí nghiệm, môn thực hành, thực tập, đồ án, đề cương luận văn, luận văn tốt nghiệp. 
+
+Lưu ý: Thời hạn phúc tra là 30 ngày tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo. Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần, không giới hạn số môn đăng ký.
+
+Cách đăng ký phúc tra bài thi cuối kỳ:
+
++ Đăng ký và theo dõi tình trạng tại trang mybk.hcmut.edu.vn>> Đăng ký phúc tra điểm, bài thi cuối kỳ.
+
++ Nhập môn học và mã số môn học >> Xác nhận đăng ký
+
++ Theo dõi tình trạng chấm phúc tra (Đã đăng ký; Đang xử lý; Phiếu đăng ký đã xử lý) và kết quả phúc tra (Không có điều chỉnh; Có điều chỉnh)
+
++ Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm theo Quy trình sửa điểm:
+
+Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO
+Sau khi được mở khóa, Giảng viên sửa điểm
+Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO thì điểm lúc đó mới chính thức được cập nhật
+thì SV xem điểm cập nhật mới tại trang mybk.hcmut.edu.vn >> Thông tin sinh viên >>  Bảng điểm.
+
+Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Điều 28 Phúc tra

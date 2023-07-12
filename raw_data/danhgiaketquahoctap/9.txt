@@ -1,0 +1,3 @@
+11. SV muốn cải thiện điểm thì như thế nào?
+
+SV muốn học cải thiện điểm thì môn học phải có cùng mã số môn học và khi tính vào điểm trung bình tích lũy sẽ lấy điểm cao nhất.

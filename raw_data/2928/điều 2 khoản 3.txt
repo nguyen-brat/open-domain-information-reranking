@@ -1,0 +1,13 @@
+3. Điều kiện tiên quyết của học phần
+- Học phần A là học phần tiên quyết của học phần B: người học phải tích luỹ
+được học phần A trước khi đăng ký học học phần B. Trong trường hợp cần thiết,
+điều kiện này còn kèm theo kết quả học tập tối thiểu của học phần A từ một
+mức điểm cụ thể.
+- Học phần A là học phần song hành của học phần B: người học phải tích luỹ
+được học phần A trước khi đăng ký học phần B, hoặc phải tích luỹ cả học phần
+A và học phần B trong cùng một học kỳ (khi đó học phần B chỉ được xác nhận
+là đã tích luỹ khi học phần A đã được xác nhận là đã tích luỹ trong học kỳ đăng
+ký học).
+- Học phần A là học phần khuyến nghị của học phần B: người học nên tích luỹ
+hoặc tự chuẩn bị các kiến thức của học phần A trước khi đăng ký học phần B
+để đạt hiệu quả cao khi học học phần B.

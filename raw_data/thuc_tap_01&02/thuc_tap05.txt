@@ -1,0 +1,4 @@
+Quy trình đăng ký và triển khai cho môn Thực tập 1 như thế nào
+o        Học viên đăng ký môn học theo quy trình của P.SĐH
+o        Học viên sẽ được chọn chủ đề theo từng GVHD. Trong trường hợp học viên không tự chọn chủ đề, thì Khoa sẽ chủ động phân công GVHD cho từng học viên.
+o        Sau khi học viên được phân công GVHD thì học viên trực tiếp làm việc với GVHD để thực hiện Thực tập. GVHD có nhiệm vụ gởi kết quả đánh giá học viên sau khi kết thúc thời gian thực tập.

@@ -1,0 +1,6 @@
+Điều 20.Công bằng và minh bạch trong đánh giá học phần
+Khi đánh giá học phần, phải đảm bảo tính công bằng giữa những người học của cùng
+một học phần của bất kỳ hình thức đào tạo nào trong cùng một học kỳ.
+Việc đánh giá học phần phải đồng thời đánh giá chuẩn đầu ra của học phần.
+Mỗi phương thức đánh giá dùng cho một học phần trong một học kỳ phải có đáp án
+hay hướng dẫn chấm bài hay tiêu chí chấm bài (gọi chung là đáp án).

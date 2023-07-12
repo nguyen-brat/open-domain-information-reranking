@@ -1,0 +1,16 @@
+- Điều kiện tiên quyết của một học phần:
+a. Học phần A là học phần song hành của học phần B: sinh viên phải tích luỹ
+được học phần A trước khi đăng ký học phần B, hoặc phải tích luỹ cả học
+phần A và học phần B trong cùng một học kỳ, đồng thời học phần B chỉ được
+xác nhận là đã tích luỹ khi học phần A đã được xác nhận là đã tích luỹ.
+o Học phần A là học phần khuyến nghị của học phần B: sinh viên nên tích luỹ
+hoặc tự chuẩn bị các kiến thức của học phần A trước khi đăng ký học phần B
+để đạt hiệu quả cao khi học học phần B.
+- Học phần tương đương, thay thế:
+o Học phần tương đương: là các học phần/nhóm học phần có nội dung tương
+đương với nhau, thường ở các chương trình ngành/nhóm ngành khác nhau,
+cho phép sinh viên tích luỹ để hoàn thành chương trình đào tạo của mình.
+b. Học phần thay thế: là các học phần hoặc nhóm học phần được dùng để thay
+thế cho học phần hoặc nhóm học phần trong chương trình đào tạo của ngành,
+thường do không còn tổ chức giảng dạy nữa, cho phép sinh viên tích luỹ để
+hoàn thành chương trình đào tạo của mình.

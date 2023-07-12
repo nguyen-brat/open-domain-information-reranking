@@ -1,0 +1,25 @@
+9.1 Phân công quản lý các học phần
+Các Khoa quản lý các học phần của ngành, chuyên ngành. Trường hợp trong chương
+trình đào tạo của ngành, chuyên ngành có dùng học phần của ngành, chuyên ngành
+khác, thì Khoa mở học phần nào sẽ quản lý học phần đó. Khoa quản lý học phần có
+trách nhiệm xây dựng và ban hành các đề cương học phần phù hợp với các quy định
+chung. Các phòng đào tạo cấp mã số học phần.
+Khoa quản lý học phần có thể ủy quyền xây dựng đề cương học phần cho các bộ môn
+hoặc một nhóm các giảng viên, trong đó có phân công một giảng viên phụ trách học
+phần.
+Đối với các học phần thuộc các khối kiến thức chung:
+- Khoa Khoa học Ứng dụng chịu trách nhiệm về các học phần thuộc khối kiến thức Toán, Vật
+lý, Lý luận chính trị và Pháp luật Việt nam đại cương;
+- Khoa Kỹ thuật Hóa học chịu trách nhiệm về các học phần thuộc khối kiến thức Hóa học đại
+cương;
+- Khoa Quản lý Công nghiệp chịu trách nhiệm về các học phần thuộc khối kiến thức quản lý
+chung toàn trường;
+- Phòng Đào tạo chịu trách nhiệm về các học phần Giáo dục thể chất (nếu có);
+- Trung tâm Ngoại ngữ quản lý các học phần Anh văn, Pháp văn;
+- Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp (PFIEV) quản
+lý các học phần khởi nghiệp dùng trong chương trình PFIEV;
+- Văn phòng Đào tạo Quốc tế quản lý các học phần chung dành riêng cho các
+chương trình Chất lượng cao/Tiên tiến/Quốc tế như Giáo dục Kỹ năng, Tiếng Việt
+cho người nước ngoài, Anh văn tăng cường, Tiếng Nhật;
+- Phòng Đào tạo Sau đại học quản lý các học phần chung khác dành riêng cho bậc
+sau đại học.

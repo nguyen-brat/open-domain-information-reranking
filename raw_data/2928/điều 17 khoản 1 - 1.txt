@@ -1,0 +1,9 @@
+1. Hội đồng ngành là tổ chức chuyên môn tập hợp các cán bộ trong ngành có
+học hàm học vị cao, uy tín, có nhiều kinh nghiệm giảng dạy và quản lý giảng
+dạy với chức năng tổ chức xây dựng, rà soát và cập nhật chương trình đào tạo
+của ngành theo chuẩn mực chất lượng của văn bằng được cấp. Hội đồng ngành
+được tạo thành từ 5 hoặc 7 thành viên. Hội đồng ngành do Trưởng khoa quản lý ngành đề
+cử, Hiệu trưởng ra quyết định bổ nhiệm và chịu sự quản lý trực tiếp của khoa
+quản lý ngành. Đối với các ngành liên ngành, Hội đồng ngành liên ngành do
+Trưởng các khoa quản lý các ngành liên quan đề cử, Hiệu trưởng ra quyết định
+thăng tiến và chịu sự quản lý trực tiếp của các khoa quản lý ngành.

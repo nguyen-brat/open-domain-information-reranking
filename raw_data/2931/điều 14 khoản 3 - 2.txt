@@ -1,0 +1,7 @@
+14.3 Điểm đặc biệt
+Một số trường hợp đặc biệt sử dụng các điểm chữ xếp loại, không được tính vào điểm
+trung bình học tập:
+1: Điểm chưa hoàn thiện do được phép hoãn thi, kiểm tra;
+2: Điểm chưa hoàn thiện do chưa đủ dữ liệu;
+3: Điểm học phần đã rút đăng ký học, không công nhận tín chỉ;
+4: Điểm học phần được miễn học và công nhận tín chỉ.

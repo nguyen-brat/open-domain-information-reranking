@@ -1,0 +1,7 @@
+SV trình độ năm 2
+
+SV chỉ được đăng ký môn trình độ thuộc năm 1, 2
+
+1- Đạt số tín chỉ tích lũy >= 28
+2- Đạt chuẩn ngoại ngữ năm thứ 2 (CCAS_1)
+3- Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản (CNTTCB)

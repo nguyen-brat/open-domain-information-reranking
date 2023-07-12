@@ -1,0 +1,12 @@
+4.1 Hình thức tổ chức lớp học phần
+Tuỳ theo hình thức tổ chức lớp học phần, các lớp học phần được đặt tên gợi nhớ để
+thuận tiện trong công tác quản lý như:
+- Lớp học phần chính quy (lớp chính quy) mở trong các học kỳ chính, ngoại trừ học
+phần thực tập ngoài trường thường được mở trong học kỳ hè, theo kế hoạch giảng
+dạy, chủ yếu trong giờ hành chính.
+c. Lớp học phần dự thính (lớp dự thính) mở trong các học kỳ chính hoặc học kỳ phụ,
+theo nhu cầu của sinh viên, có giờ học chủ yếu ngoài giờ hành chính hoặc linh
+động.
+- Lớp học phần ngoài giờ (lớp tối) mở trong các học kỳ chính hoặc học kỳ phụ, chủ
+yếu dành cho các sinh viên vừa làm vừa học, có giờ học chủ yếu là ngoài giờ hành
+chính.

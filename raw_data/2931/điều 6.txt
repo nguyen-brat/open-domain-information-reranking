@@ -1,0 +1,43 @@
+Điều 6. Tổ chức năm học
+6.1 Tổ chức các học kỳ
+Trường tổ chức hai học kỳ chính trong một năm học. Mỗi học kỳ có 15 tuần học và từ
+2 đến 3 tuần đánh giá học phần. Ngoài ra, trường có thể tổ chức thêm một học kỳ phụ
+trong thời gian hè, trong khoảng từ 6 đến 13 tuần, bao gồm thời gian đánh giá học
+phần.
+Ký hiệu các học kỳ có dạng HKYYS, trong đó YY là hai số cuối của năm và S là số
+thứ tự học kỳ. Ví dụ: HK211, HK212 và HK213 là các học kỳ 1, học kỳ 2 và học kỳ
+hè của năm học 2021-2022.
+6.2 Biểu đồ học tập và lịch học vụ
+Biểu đồ kế hoạch học tập và giảng dạy (gọi tắt là Biểu đồ học tập) là một kế hoạch có
+tính bắt buộc thực hiện trong toàn trường. Biểu đồ quy định các hoạt động học tập và
+giảng dạy và khung thời gian cho từng hoạt động. Biểu đồ quy định dựa trên tổ chức
+học kỳ.
+Các phòng đào tạo chịu trách nhiệm xây dựng Biểu đồ học tập với sự góp ý của các
+đơn vị liên quan và trình Hiệu trưởng ban hành.
+6.3 Các tuần trong Biểu đồ
+Các tuần ghi trên biểu đồ học là các tuần học vụ. Tuần học vụ được đánh số theo tuần
+dương lịch, theo chuẩn ISO 8601.
+Các tuần học vụ theo quy định:
+- Tuần học: dùng để tổ chức các giảng dạy và học tập.
+- Tuần thi/kiểm tra: dùng để tổ chức kỳ thi cuối kỳ/kiểm tra giữa kỳ. Trong các tuần
+này, các lớp học phần tương ứng không có giờ học để người học tham gia thi/kiểm
+tra.
+- Tuần thi/kiểm tra hỗn hợp: việc thi/kiểm tra được tổ chức vào cuối tuần hoặc vào
+đúng buổi học của lớp học phần tương ứng. Trong các tuần này, các lớp học phần
+tương ứng vẫn có giờ học bình thường.
+- Tuần phản biện/bảo vệ: dùng để tổ chức phản biện và bảo vệ đồ án, thực tập, các
+học phần tốt nghiệp.
+- Tuần sinh hoạt công dân: dùng tổ chức các hoạt động sinh hoạt công dân cho các
+sinh viên.
+- Tuần giáo dục quốc phòng-an ninh: tổ chức cho các sinh viên học tập trung tại
+Trung tâm Giáo dục Quốc phòng và An ninh – Đại học Quốc gia Thành phố Hồ
+Chí Minh.
+- Tuần thực tập ngoài trường: tổ chức các học phần thực tập ngoài trường. Các tuần
+này có thể tổ chức trong các học kỳ chính hoặc trong hè.
+- Các tuần khác theo nhu cầu của nhà trường.
+6.4 Các thời gian nghỉ theo quy định
+Các thời gian nghỉ theo quy định:
+- Các ngày nghỉ Lễ trong năm: nghỉ theo quy định của nhà nước.
+- Tết nguyên đán: nghỉ từ 1-3 tuần.
+- Hè: người học không có lịch học trong thời gian hè được nghỉ hè.
+- Các ngày nghỉ khác: theo quy định của nhà nước và nhà trường.

@@ -1,0 +1,27 @@
+15.1 Đánh giá kết quả học tập
+Kết quả học tập của người học được đánh giá sau từng học kỳ hoặc sau từng năm học,
+dựa trên kết quả các học phần nằm trong yêu cầu của chương trình đào tạo mà người
+học đã học.
+Người học được đánh giá dựa trên các tiêu chí sau:
+- Số tín chỉ tích luỹ học kỳ là tổng số tín chỉ của những học phần mà người học đã
+học đạt trong một học kỳ;
+- Số tín chỉ tích luỹ là tổng số tín chỉ của những học phần mà người học đã đạt từ
+đầu khóa học, tính cả các học phần được miễn học, được công nhận tín chỉ.
+Trường hợp người học tích luỹ nhiều hơn số tín chỉ yêu cầu của một nhóm tự
+chọn, chỉ số tín chỉ yêu cầu của nhóm tự chọn được tính vào số tín chỉ tích luỹ;
+- Điểm trung bình học kỳ là điểm trung bình của những học phần mà người học đã
+học trong một học kỳ, tính theo điểm chính thức của học phần và trọng số là số
+tín chỉ của học phần đó;
+Để tính điểm trung bình, điểm chữ của học phần được quy đổi về điểm số như dưới
+đây:
+A+ quy đổi thành 4,0;
+A quy đổi thành 4,0;
+B+ quy đổi thành 3,5;
+B quy đổi thành 3,0;
+C+ quy đổi thành 2,5;
+C quy đổi thành 2,0;
+D+ quy đổi thành 1,5;
+D quy đổi thành 1,0;
+F quy đổi thành 0,0.
+Những điểm chữ không được quy định như trên không được tính vào các điểm trung
+bình.

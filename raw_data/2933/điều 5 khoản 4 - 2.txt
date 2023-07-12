@@ -1,0 +1,5 @@
+5.4 Ràng buộc trình độ năm học của sinh viên và cấp độ học phần
+Trình độ năm học của sinh viên (Điều 9) và cấp độ học phần được ràng buộc như sau:
+- Học phần cấp độ một: dành cho tất cả các sinh viên;
+i. Học phần cấp độ hai: dành cho các sinh viên có trình độ năm học từ năm thứ hai
+trở lên;

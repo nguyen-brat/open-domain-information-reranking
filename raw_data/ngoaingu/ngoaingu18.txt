@@ -1,0 +1,5 @@
+Bảng quy đổi văn bằng DELF, chứng chỉ TCF với các môn Pháp văn:
+Văn bằng DELF  Chứng chỉ TCF
+A1		100 – 199
+A2		200 – 299
+B1		300 – 399

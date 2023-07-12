@@ -1,0 +1,28 @@
+1. Thanh toán học phí và các khoản tiền khác
+
+- Nộp tiền vào tài khoản cá nhân sinh viên tại ngân hàng OCB.
+
+- Truy cập myBK(mybk.hcmut.edu.vn) >> BKPay, đăng nhập tên username là mã số sinh viên và password là mật khẩu của email sinh viên.
+
+- Đánh dấu chọn các khoản cần thanh toán
+
+- Bấm Thanh toán, trang web tự động chuyển đến trang OCB online
+
+- Đăng nhập với tên đăng nhập và mật khẩu do ngân hàng OCB cung cấp
+
+- Tiến hành thanh toán theo quy trình của OCB online (thông tin xác thực OTP sẽ được gửi qua ĐTDĐ đã đăng ký).
+
+- Đăng xuất OCB online
+
+- Kiểm tra việc thanh toán trên BKPay (cần refresh lại trang BKPay hoặc đăng xuất và đăng nhập lại)
+
+- Đăng xuất BKPay
+
+Lưu ý:
+
+- Chỉ có duy nhất 1 hình thức thanh toán học phí tại myBK(mybk.hcmut.edu.vn) >> BKPay, không giải quyết bất kỳ các hình thức thanh toán khác (ví dụ: chuyển khoản vào tài khoản của Trường, nộp - trực tiếp…).
+
+- Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất/ Điều 39.4 Không thanh toán học phí.
+
+- Số điện thoại hotline của Ngân hàng OCB để được hỗ trợ (khi có phát sinh sự cố):18006678.
+

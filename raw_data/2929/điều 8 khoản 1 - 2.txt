@@ -1,0 +1,4 @@
+8.1 Kiểm tra giữa kỳ
+Các học phần có kiểm tra giữa kỳ được sắp xếp trong các tuần kiểm tra theo Đồ thị
+học tập. Giảng viên có thể chủ động tổ chức kiểm tra vào các buổi học và có thể tổ
+chức sớm hay muộn hơn 01 tuần so với tuần kiểm tra theo biểu đồ học tập.

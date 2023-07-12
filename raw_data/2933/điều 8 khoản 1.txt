@@ -1,0 +1,4 @@
+8.1 Điểm học phần tương đương, thay thế
+Sinh viên học đạt các học phần khác tương đương, thay thế cho các học phần gốc trong
+chương trình đào tạo, sinh viên sẽ nhận điểm miễn các học phần gốc, tính tích luỹ tín
+chỉ, không tính vào điểm trung bình tích luỹ ngành.

@@ -1,0 +1,2 @@
+Danh sách các doanh nghiệp trên trang thực tập có liên quan tới môn thực tập 1 và thực tập 2 không?
+Danh sách các nghiệp trên trang thực tập hiện tại chỉ áp dụng cho chương trình đào tạo đại học.

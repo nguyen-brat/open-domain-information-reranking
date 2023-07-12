@@ -1,0 +1,4 @@
+5. Cách tính điểm học phần?
+
+Điểm học phần được tính từ tổng các điểm thành phần nhân với trọng số tương ứng, làm tròn tới Một chữ số thập phân.
+Sinh viên vui lòng xem chi tiết: Quy định về học vụ và đào tạo bậc đại học – Phiên hợp nhất Khoản 17.2 Điều 17 Tính điểm học phần.

@@ -1,0 +1,17 @@
+9.1 Phân công quản lý các học phần
+Đối với các học phần thuộc các khối kiến thức chung:
+- Khoa Khoa học Ứng dụng quản lý các học phần thuộc khối kiến thức Toán, Vật
+lý, Lý luận chính trị và Pháp luật Việt nam đại cương;
+- Khoa Kỹ thuật Hóa học quản lý các học phần thuộc khối kiến thức Hóa học đại
+cương;
+- Khoa Quản lý Công nghiệp quản lý các học phần thuộc khối kiến thức quản lý
+chung toàn trường;
+- Phòng Đào tạo quản lý các học phần Giáo dục thể chất (nếu có);
+- Trung tâm Ngoại ngữ quản lý các học phần Anh văn, Pháp văn;
+- Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp (PFIEV) quản
+lý các học phần khởi nghiệp dùng trong chương trình PFIEV;
+- Văn phòng Đào tạo Quốc tế quản lý các học phần chung dành riêng cho các
+chương trình Chất lượng cao/Tiên tiến/Quốc tế như Giáo dục Kỹ năng, Tiếng Việt
+cho người nước ngoài, Anh văn tăng cường, Tiếng Nhật;
+- Phòng Đào tạo Sau đại học quản lý các học phần chung khác dành riêng cho bậc
+sau đại học.

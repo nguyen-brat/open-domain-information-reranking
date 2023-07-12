@@ -1,0 +1,9 @@
+8.4 Thay đổi thời khóa biểu
+Trong các trường hợp bất khả kháng, giờ học hàng tuần trong thời khoá biểu của một
+lớp có thể được thay đổi trong quá trình giảng dạy theo yêu cầu của giảng viên và người
+học, hoặc theo yêu cầu của các cấp có thẩm quyền. Giờ học mới phải đảm bảo không
+trùng giờ với tất cả người học trong lớp và tuân thủ đúng khung giờ xếp thời khoá biểu
+của loại hình lớp, ngoại trừ tình huống bất khả kháng theo yêu cầu của các cấp có thẩm
+quyền.
+Trong một số trường hợp, thời khoá biểu có thể bị thay đổi phòng học theo yêu cầu của
+nhà trường, giảng viên và người học.

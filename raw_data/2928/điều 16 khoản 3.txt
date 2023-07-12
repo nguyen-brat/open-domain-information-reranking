@@ -1,0 +1,4 @@
+3. Bảng ánh xạ chuẩn đầu ra của chương trình đào tạo chuyên ngành là bảng
+ánh xạ chuẩn đầu ra của ngành, thêm các ánh xạ đến nhóm các học phần bắt
+buộc của chuyên ngành mà không làm thay đổi chuẩn đầu ra hay đề cương các
+học phần này trong chương trình đào tạo ngành.

@@ -1,0 +1,4 @@
+6.1 Tổ chức các học kỳ
+Ký hiệu các học kỳ có dạng HKYYS, trong đó YY là hai số cuối của năm và S là số
+thứ tự học kỳ. Ví dụ: HK211, HK212 và HK213 là các học kỳ 1, học kỳ 2 và học kỳ
+hè của năm học 2021-2022.

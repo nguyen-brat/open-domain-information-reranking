@@ -1,0 +1,7 @@
+8. Theo thông tin từ giảng viên thì giảng viên đã chỉnh sửa rồi nhưng hệ thống vẫn chưa cập nhật điểm? hoặc Giảng viên nhập sai điểm / Điểm không đúng / Khiếu nại điểm / Phúc tra lên điểm
+
+Quy trình sửa điểm: Nếu Giảng viên đã nhập điểm và khóa chương trình cập nhật điểm, sau đó muốn sửa điểm thì:
+
+Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” nộp lại PĐT.
+Sau khi được mở khóa, Giảng viên sửa điểm.
+Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PĐT thì điểm lúc đó mới chính thức được cập nhật.

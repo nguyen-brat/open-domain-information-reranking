@@ -1,0 +1,8 @@
+Điều 21.Thời lượng kiểm tra, thi
+Tổng thời lượng kiểm tra và thi theo hình thức trắc nghiệm, tự luận của một học phần
+không vượt quá số tín chỉ nhân với 50 phút. Trong đó, thời lượng kiểm tra không vượt
+quá thời lượng thi của cùng một học phần trong cùng một học kỳ.
+Một phiên kiểm tra hoặc thi theo hình thức trắc nghiệm, tự luận của một học phần có
+thời lượng là một trong các thời lượng sau: 50’, 60’, 70’, 80’, 90’, 100’, 110’, 120’,
+130’, 140’, 150’. Trong đó, thời lượng kiểm tra hoặc thi theo hình thức trắc nghiệm
+không quá 90’.

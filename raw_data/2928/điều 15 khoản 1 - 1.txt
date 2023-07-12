@@ -1,0 +1,7 @@
+1. Mục tiêu đào tạo và chuẩn đầu ra chương trình đào tạo tuân thủ các quy định
+hiện hành và các quy định cụ thể sau:
+a) Mục tiêu đào tạo phải phù hợp với định hướng của nhà trường;
+b) Số lượng mục tiêu chung của chương trình đào tạo là 3 - 5;
+c) Số lượng mục tiêu cụ thể của chương trình đào tạo (nếu có) là 6 - 8;
+d) Đầu ra của chương trình đào tạo phải phù hợp với mục tiêu đào tạo;
+e) Số lượng chuẩn đầu ra của chương trình đào tạo là 6 - 12.

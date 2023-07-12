@@ -1,0 +1,7 @@
+14.3 Điểm đặc biệt
+Một số trường hợp đặc biệt sử dụng các điểm chữ xếp loại, không được tính vào điểm
+trung bình học tập:
+I: Điểm chưa hoàn thiện do được phép hoãn thi, kiểm tra;
+X: Điểm chưa hoàn thiện do chưa đủ dữ liệu;
+W: Điểm học phần đã rút đăng ký học, không công nhận tín chỉ;
+R: Điểm học phần được miễn học và công nhận tín chỉ.

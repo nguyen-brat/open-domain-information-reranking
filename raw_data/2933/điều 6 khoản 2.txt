@@ -1,0 +1,7 @@
+6.2 Rút đăng ký học phần
+Sinh viên có thể đăng ký rút học phần đã đăng ký để nhận điểm rút học phần. Học
+phần rút sẽ được xoá thời khoá biểu, xoá tên trong danh sách lớp, không tính vào số
+tín chỉ học kỳ, và vẫn tính học phí.
+Việc rút đăng ký học phần phải được thực hiện trước 02 tuần so với tuần kết thúc học
+kỳ và trước ngày thi đối với các học phần có tổ chức thi. Việc rút đăng ký học phần
+phải đảm bảo số tín chỉ tối thiểu học kỳ như quy định.

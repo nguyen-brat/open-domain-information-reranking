@@ -1,0 +1,5 @@
+14. Theo CTĐT của em thì em phải học 3 môn nhóm A, 3 môn nhóm B và 1 môn nhóm C là đủ 7 môn tự chọn. PĐT cho em hỏi là nếu trong quá trình em học tới 8 hoặc 9 môn tự chọn thì ĐTBTL và ĐTBTLN của em sẽ tính cả 8, 9 môn này hay chỉ lấy 7 môn có điểm số cao nhất trong trường hợp toàn bộ 8,9 môn này đều trên 5.0 hay tính ĐTBTL và ĐTBTLN như thế nào ạ? Vậy cho em hỏi là ví dụ ngành em cần học 7 môn tự chọn (3A - 3B -1C) . Nếu em học dư ra 1 môn nhóm C (2 môn)thì PĐT sẽ chọn môn có điểm cao hơn để tính vào TBTL ạ?
+
+Điểm trung bình tích lũy (ĐTBTL) là điểm trung bình của những học phần mà người học đã học tính từ đầu khóa học, tính theo điểm chính thức của học phần và trọng số là số tín chỉ của học phần đó.
+Trường hợp người học tích lũy nhiều hơn số học phần yêu cầu của một nhóm tự chọn, chọn các học phần trong số này để tính điểm trung bình tích lũy sao cho đảm bảo đủ số tín chỉ yêu cầu của nhóm tự chọn, đồng thời làm kết quả tính điểm trung bình tích lũy đạt cao nhất.
+Điểm trung bình tích lũy ngành (ĐTBTLN) được tính tương tự như điểm trung bình tích lũy nhưng chỉ xét các môn học thuộc CTĐT khóa-ngành/chuyên ngành đang theo học

@@ -1,0 +1,4 @@
+2. Chương trình đào tạo chuyên ngành là chương trình đào tạo của ngành, tại
+đó quy định cụ thể một số khối kiến thức/học phần tự chọn của chương trình
+đào tạo của ngành là lượng kiến thức/học phần bắt buộc hoặc tự chọn của chương
+trình đào tạo.

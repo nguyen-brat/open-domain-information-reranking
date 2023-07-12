@@ -1,0 +1,2 @@
+Dạ cho em hỏi ngành logistic bên trường có xét theo khối C k ạ
+Chào bạn, trường Đại học Bách khoa HCM chỉ có 1 ngành Kiến trúc xét theo tổ hợp C01 (Toán, Lý, Văn) thôi bạn nhé. Vì vậy, ngành Logistics và quản lý chuỗi cung ứng không xét theo khối C mà chỉ xét khối A00, A01.

@@ -1,0 +1,16 @@
+6.1 Phân công ra đề tài
+Khoa căn cứ vào số lượng sinh viên nhận khoá luận tốt nghiệp và tải các Bộ môn, tải
+và năng lực các Giảng viên để phân công số lượng đề tài tối thiểu của các Bộ môn, các
+(nhóm) Giảng viên.
+Khoa quy định cụ thể về việc đề tài khoá luận tốt nghiệp được phát triển từ đề tài đồ
+án chuyên ngành, thời gian tối đa để công nhận chuyển tiếp khi sinh viên gián đoạn
+giữa đồ án chuyên ngành và khoá luận tốt nghiệp và các trường hợp được đặc cách
+thực hiện đề tài khoá luận tốt nghiệp mới.
+Nội dung đề tài công bố cho sinh viên có tối thiểu các thông tin như sau:
+- Tên đề tài, bằng tiếng Việt và bằng tiếng Anh;
+- Nội dung đề tài;
+- Tài liệu tham khảo;
+- Đề tài thực hiện bởi cá nhân hoặc nhóm sinh viên, trong trường hợp đề tài nhóm
+sinh viên, phải có sự phân chia rõ ràng cho từng sinh viên.
+Khuyến khích các dạng đề tài mang tính liên ngành, liên Bộ môn do nhiều Giảng viên
+cùng hướng dẫn.

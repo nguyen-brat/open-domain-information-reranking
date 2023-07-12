@@ -1,0 +1,9 @@
+3. Ràng buộc điểm thành phần và điểm tổng kết?
+
+Trích “Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất/ Khoản 18.1 Điều 18 Ràng buộc điểm thành phần và điểm tổng kết”:
++ Đối với các học phần có thí nghiệm, sinh viên sẽ bị cấm thi nếu có điểm nhỏ hơn 4,0 (thang điểm 10).
+
+Ràng buộc thêm (mới): điểm thi và các cột điểm thành phần:
++ Tất cả các thành phần phải có điểm > 0.
+
++ Sẽ cấm thi khi có bất kỳ thành phần điểm nào = 0.

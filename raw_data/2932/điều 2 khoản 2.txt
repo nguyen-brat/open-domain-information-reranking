@@ -1,0 +1,10 @@
+2.2 Cử sinh viên thực tập ngoài trường
+Sinh viên có đăng ký học phần thực tập ngoài trường, đăng ký với Khoa để được cử
+vào các đoàn thực tập.
+Khoa có thể quy định thêm các điều kiện cụ thể khác và quy trình đăng ký tại Khoa,
+như phải tham gia phỏng vấn với cơ sở thực tập và được cơ sở thực tập đồng ý nhận,
+hay phải tham dự và đạt kết quả từ mức ngưỡng ở kỳ kiểm tra năng lực cơ bản của
+ngành do Khoa tổ chức, ... để sinh viên được cử vào các đoàn thực tập. Các quy định
+riêng phải được công bố công khai cho tất cả các sinh viên. Khoa có quyền từ chối cử
+sinh viên vào các đoàn thực tập nếu sinh viên không thoả mãn các điều kiện và không
+tuân thủ đúng quy trình đã đề ra.

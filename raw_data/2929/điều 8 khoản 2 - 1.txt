@@ -1,0 +1,5 @@
+8.2 Thi cuối kỳ
+Dụa vào Biểu đồ học tập, các học phần được xếp lịch thi trong các tuần thi. Trường hợp
+giảng viên hoặc người học cần thi sớm hoặc muộn hơn biểu đồ học tập, giảng viên hay
+người học xin phép Khoa và đăng ký cho các phòng đào tạo để xếp lịch thi, đảm bảo
+thuận lợi cho người học và cho nhà trường.

@@ -1,0 +1,4 @@
+2. Bảng ánh xạ chuẩn đầu ra của chương trình đào tạo và các học phần phải biểu diễn đầy đủ 
+đóng góp của các học phần vào chuẩn đầu ra của chương trình đào tạo,
+đảm bảo mỗi chuẩn đầu ra của chương trình đào tạo phải được đóng góp bởi
+nhiều hơn một học phần.

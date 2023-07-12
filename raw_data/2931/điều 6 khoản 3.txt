@@ -1,0 +1,21 @@
+6.3 Các tuần trong Biểu đồ
+Các tuần ghi trên biểu đồ học là các tuần học vụ. Tuần học vụ được đánh số theo tuần
+dương lịch, theo chuẩn ISO 8601.
+Các tuần học vụ theo quy định:
+- Tuần học: dùng để tổ chức các giảng dạy và học tập.
+- Tuần thi/kiểm tra: dùng để tổ chức kỳ thi cuối kỳ/kiểm tra giữa kỳ. Trong các tuần
+này, các lớp học phần tương ứng không có giờ học để người học tham gia thi/kiểm
+tra.
+- Tuần thi/kiểm tra hỗn hợp: việc thi/kiểm tra được tổ chức vào cuối tuần hoặc vào
+đúng buổi học của lớp học phần tương ứng. Trong các tuần này, các lớp học phần
+tương ứng vẫn có giờ học bình thường.
+- Tuần phản biện/bảo vệ: dùng để tổ chức phản biện và bảo vệ đồ án, thực tập, các
+học phần tốt nghiệp.
+- Tuần sinh hoạt công dân: dùng tổ chức các hoạt động sinh hoạt công dân cho các
+sinh viên.
+- Tuần giáo dục quốc phòng-an ninh: tổ chức cho các sinh viên học tập trung tại
+Trung tâm Giáo dục Quốc phòng và An ninh – Đại học Quốc gia Thành phố Hồ
+Chí Minh.
+- Tuần thực tập ngoài trường: tổ chức các học phần thực tập ngoài trường. Các tuần
+này có thể tổ chức trong các học kỳ chính hoặc trong hè.
+- Các tuần khác theo nhu cầu của nhà trường.

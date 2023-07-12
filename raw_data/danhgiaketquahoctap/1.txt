@@ -1,0 +1,5 @@
+2. Điểm trung bình tích lũy, số tín chỉ tích lũy trên Cổng thông tin sinh viên/Xem điểm chưa được cập nhật ?
+
+Do điểm của các học kỳ chưa cập nhật đủ (hoặc mới cập nhật) nên điểm trung bình tích lũy, số tín chỉ tích lũy trên Cổng thông tin sinh viên/Xem điểm chưa được cập nhật (không cập nhật thường xuyên), SV có thể tham khảo điểm của từng môn học được cập nhật và tính theo quy chế học vụ. Hoặc SV có thể đăng ký in bảng điểm Đăng ký tại trang hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký in bảng điểm, thì trong bảng điểm này sẽ được tính tất cả các môn học đã có điểm tới thời điểm SV đăng ký in. 
+Trường hợp khi đăng ký Môn Học, xét các học phần tốt nghiệp, ... xét thiếu cho SV, khi môn học đã có điểm mà chưa được cộng để xét, SV có thể khiếu nại và gửi câu hỏi qua trang hỗ trợ trực tuyến Bksi. 
+Trường hợp SV học môn tương đương/ thay thế, khi có điểm SV có thể gửi câu hỏi qua trang hỗ trợ trực tuyến Bksi để xin cập nhật môn tương đương, trường hợp này SV vui lòng ghi rõ: Tên và Mã Môn Học (SV đã học), ở học kỳ nào? tương đương với Môn Học học nào (thuộc Chương Trình Đào Tạo của SV).

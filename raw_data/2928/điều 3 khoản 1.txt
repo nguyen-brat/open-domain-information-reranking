@@ -1,0 +1,3 @@
+1. Chương trình đào tạo được xây dựng cho từng bậc đào tạo: cử nhân, kỹ sư
+(chương trình Chất lượng cao Việt-Pháp), kỹ sư – thạc sĩ, kiến trúc sư – thạc sĩ,
+thạc sĩ, tiến sĩ.

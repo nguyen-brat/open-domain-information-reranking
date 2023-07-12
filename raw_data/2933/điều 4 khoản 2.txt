@@ -1,0 +1,30 @@
+4.2 Giới hạn sĩ số của lớp học phần
+Số lượng sinh viên trong mỗi lớp học phần (gọi tắt là sĩ số) được giới hạn bởi loại học
+phần, loại hình lớp học, sức chứa phòng học hoặc theo quy định riêng.
+Sĩ số lớp học phần của một số loại học phần trung bình như sau:
+- Các học phần đại cương, toàn trường: 140 hoặc lớn hơn và theo sức chứa của các
+phòng học;
+e. Các học phần cơ sở toàn khoa: 100 - 120;
+- Các học phần cơ sở ngành: 60 - 80;
+f. Các học phần ngành, chuyên ngành: 40 - 60;
+- Các học phần thực hành, thực tập, thí nghiệm: 40 – 60; hoặc theo sức chứa của
+các phòng thí nghiệm đặc thù, trung bình từ 25 – 35.
+Sĩ số tối đa của các lớp học phần có thể cao hơn quy định trên, theo sức chứa của các
+phòng học và theo nhu cầu của các Khoa.
+Sĩ số tối thiểu để có thể mở lớp học phần như sau:
+- Các học phần đại cương, toàn trường: 60;
+g. Các học phần cơ sở toàn khoa: 60;
+- Các học phần cơ sở ngành: 40;
+h. Các học phần ngành, chuyên ngành: 30 hoặc 15 cho các chuyên ngành rất hẹp,
+đặc biệt;
+- Các học phần thực hành, thực tập, thí nghiệm: 15.
+Sĩ số tối thiểu chỉ dùng trong các trường hợp đặc biệt, trên nguyên tắc cân đối chi phí
+vận hành.
+Các lớp học phần của các chương trình Chất lượng cao, Tiến tiến, có sĩ số trong khoảng
+60 - 80 cho các học phần đại cương và khoảng 30 - 45 cho các học phần khác.
+Các lớp học phần của các học phần tổ chức theo dạng hướng dẫn tự học như đồ án,
+khoá luận tốt nghiệp có sĩ số theo số lượng sinh viên được phân công cho giảng viên
+hướng dẫn.
+Trong các trường hợp đặc biệt, được sự đồng ý về chuyên môn của Khoa, hình thức
+giảng dạy của một lớp học phần có thể chuyển sang dạng hướng dẫn tự học với giảng
+viên. Trường hợp này, sĩ số lớp học phần cho phép tối thiểu là 1 và tối đa là 10.

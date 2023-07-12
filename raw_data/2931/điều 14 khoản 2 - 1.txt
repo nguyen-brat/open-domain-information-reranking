@@ -1,0 +1,9 @@
+14.2 Tính điểm học phần
+Điểm học phần được tính từ tổng các điểm thành phần nhân với trọng số tương ứng,
+làm tròn tới một chữ số thập phân và xếp loại điểm chữ như dưới đây, trừ các trường
+hợp được quy định tại khoản 14.3 này.
+b) Loại đạt không phân mức, áp dụng cho các học phần chỉ yêu cầu đạt, không tính
+vào điểm trung bình học tập:
+P: từ 5,0 trở lên.
+c) Loại không đạt:
+F: dưới 4,0.

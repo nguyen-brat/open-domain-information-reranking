@@ -1,0 +1,20 @@
+Khác nhau giữa ngành KHMT và KTMT?
+KHMT:
+Ngành Khoa học Máy tính thuộc nhóm ngành Máy tính và Công nghệ thông tin. Mục tiêu của chương trình ngành Khoa học Máy tính là đào tạo ra những kỹ sư có chất lượng cao, có khả năng thiết kế, xây dựng và triển khai những hệ thống phần mềm đáp ứng nhu cầu trong nước và quốc tế. Kỹ sư tốt nghiệp ngành Khoa học Máy tính cũng được trang bị những kiến thức cần thiết để có thể học tiếp cao học và tiến sỹ trong lĩnh vực Máy tính và Công nghệ thông tin.
+ q
+Chương trình sẽ trang bị cho sinh viên kiến thức nền tảng thuộc lĩnh vực Máy tính và Công nghệ thông tin, kiến thức cốt lõi ngành Khoa học Máy tính, và kiến thức, công nghệ chuyên sâu của ngành như trí tuệ nhân tạo, bảo mật và an toàn máy tính, xử lý dữ liệu khối lượng lớn từ mạng Internet và các mạng xã hội, thiết kế và phát triển các ứng dụng cho các thiết bị di động và môi trường Web.
+Sau khi tốt nghiệp chương trình ngành Khoa học Máy tính của Trường Đại học Bách Khoa, các kỹ sư có thể đảm nhiệm nhiều công việc trong lĩnh vực Máy tính và Công nghệ thông tin như:
+-       Thiết kế và xây dựng các phầm mềm máy tính cho các ngân hàng, các tổ chức tài chính, hành chính và thương mại, v.v.
+-       Thiết kế và xây dựng các ứng dụng cho các thiết bị di động, ứng dụng thương mại điện tử trên nền Web, các trò chơi trên máy tính và thiết bị di động, v.v.
+-       Quản trị và xây dựng các giải pháp đảm bảo an toàn cho các hệ thống máy tính và hệ thống mạng máy tính.
+-       Làm việc trong các công ty gia công phần mềm cho các thị trường Mỹ, Nhật và Châu  u.
+-       Tư vấn, thẩm định và phát triển các dự án, giải pháp công nghệ thông tin.
+KTMT:
+Ngành Kỹ thuật Máy tính thuộc nhóm ngành Máy tính và Công nghệ thông tin. Mục tiêu của chương trình ngành Kỹ thuật Máy tính là đào tạo ra những kỹ sư có chất lượng cao, có khả năng thiết kế, xây dựng và triển khai những hệ thống phần mềm và phần cứng cho máy tính và các thiết bị điều khiển nhằm đáp ứng nhu cầu trong nước và quốc tế. Kỹ sư tốt nghiệp ngành Kỹ thuật Máy tính cũng được trang bị những kiến thức cần thiết để có thể học tiếp cao học và tiến sỹ trong lĩnh vực Máy tính và Công nghệ thông tin.
+ 
+Chương trình sẽ trang bị cho sinh viên kiến thức nền tảng thuộc lĩnh vực Máy tính và Công nghệ thông tin, kiến thức cốt lõi ngành Kỹ thuật Máy tính, và kiến thức, công nghệ chuyên sâu của ngành như vi xử lý, vi điều khiển, thiết kế vi mạch, phần mềm nhúng, phần mềm cho các thiết bị điều khiển tự động, robot công nghiệp. 
+Sau khi tốt nghiệp chương trình ngành Kỹ thuật Máy tính của Trường Đại học Bách Khoa, các kỹ sư có thể đảm nhiệm nhiều công việc trong lĩnh vực Máy tính và Công nghệ thông tin như:
+-       Thiết kế và xây dựng các phầm mềm, phần cứng cho các thiết bị điều khiển tự động như các thiết bị điều khiển trong ô tô, thiết bị điện tử, thiết bị đọc mã vạch, robot công nghiệp, các dây chuyền công nghiệp.
+-       Quản trị và xây dựng các giải pháp đảm bảo an toàn cho các hệ thống máy tính và mạng máy tính.
+-       Làm việc trong các công ty gia công phần mềm cho các thị trường Mỹ, Nhật và Châu  u.
+-       Tư vấn, thẩm định và phát triển các dự án, giải pháp công nghệ thông tin.

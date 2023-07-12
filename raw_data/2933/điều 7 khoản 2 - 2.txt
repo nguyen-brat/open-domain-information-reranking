@@ -1,0 +1,12 @@
+7.2 Điểm tổng kết các trường hợp riêng
+Một số trường hợp chỉ có điểm tổng kết, không có điểm thành phần như học phần đồ
+án, thực tập, học phần tốt nghiệp, ... Các môn học đánh giá bằng hình thức bảo vệ thì
+điểm tổng kết là điểm bảo vệ cuối kỳ. 
+Điểm tổng kết học phần tốt nghiệp được tính từ trung bình cộng của các điểm cho bởi
+các thành viên của hội đồng, của người hướng dẫn và của người phản biện và được
+làm tròn đến 0,1. Các điểm cho bởi các thành viên của hội đồng, của người hướng dẫn
+và của người phản biện không được lệch nhau quá 2,0 điểm. Trường hợp lệch quá 2,0
+điểm thì hội đồng phải hội ý, xem xét để điều chỉnh phù hợp và điểm cuối cùng được
+quyết định bởi tập thể hội đồng. Trong đó, khi bỏ phiếu lấy ý kiến, thì phiếu của Chủ
+tịch Hội đồng có trọng số cao hơn 10% so với các thành viên khác của hội đồng. Tất
+cả các ý kiến và kết luận cuối cùng phải được ghi vào biên bản hội đồng.

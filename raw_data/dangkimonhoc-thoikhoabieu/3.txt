@@ -1,0 +1,96 @@
+II. Các bước thực hiện đăng ký môn học: 
+
+ 
+
+1. Xem Chương trình đào tạo và Lịch đăng ký môn học
+
+- Xem Chương trình đào tạo tại trang web: hcmut.edu.vn >> Đào tạo >> Chương trình đào tạo.
+
+- Xem Lịch đăng ký môn học mỗi học kỳ tại trang web hcmut.edu.vn >> Đào tạo >> Lịch học vụ.
+
+2. Đăng ký kế hoạch học tập (Đợt 1)
+
+- Đăng ký tại trang web: mybk.hcmut.edu.vn >> Đăng ký môn học >> Chọn đợt đăng ký kế hoạch tương ứng.
+
+- Sinh viên đăng ký tất cả các môn học cần học trong đợt này, nếu SV không đăng ký môn học đợt này có thể sẽ gặp khó khăn vào các đợt sau (Đợt đăng ký hiệu chỉnh và Đợt ĐKMH bổ sung) do lớp không mở hoặc lớp đã đủ sĩ số.
+
+Lưu ý: SV xem Loại hình lớp và đối tượng sinh viên để chọn loại đăng ký đúng: Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất (1)/ Phụ lục 13. Quy định về các loại hình lớp học phần/2- Loại hình lớp và đối tượng sinh viên.
+
+Chính quy: Đúng buổi: nhóm lớp chính quy, Trái buổi: nhóm lớp dự thính.
+Vừa làm vừa học: Đúng buổi: nhóm lớp dự thính hoặc nhóm lớp VLVH, Trái buổi: học chung với nhóm lớp chính quy.
+     Có các nhóm lớp sau đây:
+
+     DB--: chỉ học đúng buổi, không đăng ký được thì không học
+
+    TB--: chỉ học trái buổi, không đăng ký được thì không học
+
+    DBTB: ưu tiên đăng ký học đúng buổi, nếu không được thì học trái buổi cũng được
+
+    TBDB: ưu tiên đăng ký học trái buổi, nếu không được thì học đúng buổi cũng được
+
+3. Đăng ký môn học (Đợt 2)
+
+Đăng ký tại trang web: mybk.hcmut.edu.vn >> Đăng ký môn học >> Chọn đợt đăng ký tương ứng
+
+SV kiểm tra TKB sơ bộ, có thể đăng ký thêm, điều chỉnh nhóm hoặc hủy môn.
+
+Lưu ý:
+
+- Nếu SV không hiệu chỉnh là chấp nhận TKB sơ bộ đã được xếp.
+
+- PĐT sẽ hậu kiểm các điều kiện ĐKMH và điều chỉnh để xếp TKB chính thức.
+
+- SV xem chi tiết: Hướng dẫn xem lý do không đăng ký môn học thành công
+
+4. Kiểm tra TKB chính thức
+
+Xem TKB chính thức tại trang web: mybk.hcmut.edu.vn >> Thông tin sinh viên >> Thời khóa biểu
+
+SV không có TKB chính thức sẽ bị tạm dừng học.
+
+Lưu ý:
+
+- Không xem TKB tại công cụ Đăng ký môn học.
+
+- Có thể có một số môn học đã có đăng ký nhưng không có trong TKB chính thức do không thỏa điều kiện ĐKMH (môn tiên quyết/học trước, số tín chỉ tích lũy, chuẩn tiếng Anh, trình độ SV …) hoặc lớp bị hủy (do sĩ số ít). SV xem lịch sử đăng ký môn học để biết lý do cụ thể. SV xem lý do tại sao có đăng ký môn học mà không có TKB tại trang web : mybk.hcmut.edu.vn >> Đăng ký môn học >> bấm vào mục Đăng ký mới >> chọn loại hình đăng ký >> xem Lịch sử đăng ký. SV xem chi tiết: Hướng dẫn xem lý do không đăng ký môn học thành công
+
+- Sinh viên xem chi tiết ký hiệu chuẩn, giải thích, mục đích, điều kiện để đạt các Chuẩn khi đăng ký môn học tại: Bảng giải thích ký hiệu các chuẩn.
+
+- Không được hủy môn hoặc đổi nhóm sau khi có TKB chính thức.
+
+- Phải thường xuyên kiểm tra TKB để biết các thay đổi (nếu có).
+
+5. Đăng ký bổ sung (Đợt 3)
+
+Đăng ký tại trang web: mybk.hcmut.edu.vn >> Đăng ký môn học >> Chọn đợt đăng ký tương ứng
+
+SV đăng ký bổ sung các môn học, hoặc đăng ký lại các môn học đã đăng ký trước đây nhưng chưa có trong TKB chính thức.
+
+Lưu ý:
+
+- SV không được hủy môn học hoặc đổi nhóm. Nếu không có nhu cầu học nữa, SV có thể thực hiện quy trình rút môn học (có tính học phí). SV đăng ký Rút môn học (có tính học phí) tại trang mybk.hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký Rút Môn học
+
+- Có thể có một số môn học đã có đăng ký nhưng không có trong TKB chính thức do không thỏa điều kiện ĐKMH (môn tiên quyết/học trước, số tín chỉ tích lũy, chuẩn tiếng Anh, trình độ SV …) hoặc lớp bị hủy (do sĩ số ít). SV xem lịch sử đăng ký môn học để biết lý do cụ thể. SV xem lý do tại sao có đăng ký môn học mà không có TKB tại trang web : mybk.hcmut.edu.vn >> Đăng ký môn học >> bấm vào mục Đăng ký mới >> chọn loại hình đăng ký >> xem Lịch sử đăng ký.  SV xem chi tiết: Hướng dẫn xem lý do không đăng ký môn học thành công
+
+- Sinh viên xem chi tiết ký hiệu chuẩn, giải thích, mục đích, điều kiện để đạt các Chuẩn khi đăng ký môn học tại: Bảng giải thích ký hiệu các chuẩn.
+
+6. Bắt đầu học kỳ
+
+SV kiểm tra lại TKB cập nhật sau đợt bổ sung.
+
+7. Thanh toán học phí
+
+SV thanh toán học phí tại trang web: mybk.hcmut.edu.vn >> BKPay
+
+SV phải thanh toán đúng hạn các đợt thanh toán học phí.
+
+Học phí HK1 và HK2 được thanh toán:
+100% học phí: từ tuần học thứ 12 (thời gian thanh toán trong 1 tuần).(Tuần học được tính theo học kỳ của các khóa chính quy trừ năm 1)
+Học phí các HK dự thính: trong tuần đầu tiên của HK dự thính.
+Học phí HK hè và HK dự thính hè: trong tuần đầu tiên của HK hè.
+Xem chi tiết lịch thời gian nộp học phí tại trang web hcmut.edu.vn >> Đào tạo >> Lịch học vụ.
+Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 39.4 Không thanh toán học phí.
+Về thông tin học phí bạn vui lòng xem chi tiết tại trang web trang hcmut.edu.vn >> Đào tạo >> Học phí.
+8. Xem lịch thi
+
+Tại mybk.hcmut.edu.vn >> Thông tin sinh viên >> Lịch thi. 

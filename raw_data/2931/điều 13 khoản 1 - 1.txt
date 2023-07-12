@@ -1,0 +1,7 @@
+13.1 Công khai đề cương học phần
+Khoa phải công khai đề cương học phần cho người học trước khi người học thực hiện
+đăng ký học phần. Đề cương học phần phải nêu rõ chuẩn đầu ra (learning outcome),
+Đối với các học phần hoặc phần học thực tập, thí nghiệm, đề cương học phần phải nêu
+rõ mục tiêu và nội dung từng bài thực tập, thí nghiệm và các ràng buộc cụ thể về việc
+vắng mặt, học bù, về việc an toàn trong thực tập, thí nghiệm. Các quy định về an toàn
+có thể được quy định như nội quy phòng thí nghiệm.

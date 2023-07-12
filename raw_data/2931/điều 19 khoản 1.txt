@@ -1,0 +1,4 @@
+19.1 Các hình thức đánh giá học phần
+Mỗi học phần có thể có nhiều hình thức đánh giá, như trắc nghiệm, tự luận, vấn đáp,
+bài luận, sản phẩm, bảo vệ trước tập thể giảng viên hay hội đồng. Một bài đánh giá
+có thể bao gồm nhiều hình thức đánh giá.

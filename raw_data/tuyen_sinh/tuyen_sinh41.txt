@@ -1,0 +1,2 @@
+Điểm xét tuyển theo phương thức 2 Ưu tiên xét tuyển có được cộng thêm điểm thưởng khi có các thành tích khác không ạ?
+Chào bạn, điểm xét tuyển của phương thức 2 không có điểm thưởng của các thành tích khác bạn nhé. Điểm xét tuyển phương thức 2 là xét theo tổng các điểm trung bình các môn (thuộc tổ hợp môn xét tuyển) của các năm lớp 10, 11, 12; theo bài luận của thí sinh và thư giới thiệu của giáo viên.

@@ -1,0 +1,4 @@
+Quy trình đăng ký và triển khai cho môn Thực tập 2 như thế nào
+o        Học viên đăng ký môn học theo quy trình của P.SĐH
+o        Học viên chủ động tìm GVHD để thống nhất đề tài và kế hoạch thực hiện
+o        Học viên sẽ nộp báo cáo và thực hiện báo cáo trước Hội đồng (do Khoa đề xuất) vào cuối học kì để đánh giá kết quả và góp ý cho việc thực hiện tiếp giai đoạn Đồ án tốt nghiệp.

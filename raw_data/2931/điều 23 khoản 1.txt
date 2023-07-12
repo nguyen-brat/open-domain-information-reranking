@@ -1,0 +1,26 @@
+23.1 Cách tính học phí
+Nhà trường có hai cách tính học phí, áp dụng cho các bậc, chương trình, hình thức và
+khoá đào tạo khác nhau:
+- Tính theo tín chỉ: Học phí được tính bằng số tín chỉ (hoặc đơn vị học phần, gọi
+chung là tín chỉ) đăng ký nhân với đơn giá mỗi tín chỉ. Một số học phần có số tín
+chỉ tính học phí khác với số tín chỉ trong chương trình đào tạo do có sự khác biệt
+về cách xác định tín chỉ. Một số học phần được định đơn giá cụ thể không theo
+tín chỉ.
+- Tính theo học kỳ: Học phí được tính theo học kỳ, cho phép người học đăng ký
+học một ngưỡng tối đa số tín chỉ tuỳ theo bậc học, chương trình và hình thức đào
+tạo. Học phí phần tín chỉ vượt ngưỡng tối đa được tính theo tín chỉ. Học phần thực
+tập ngoài trường tổ chức trong học kỳ hè được tính vào học phí học kỳ 2 ngay
+trước đó.
+Học phí các học phần theo quy định của Đại học Quốc gia Thành phố Hồ Chí Minh
+như Giáo dục Quốc phòng – An ninh, Giáo dục Thể chất học theo lịch học của nhà
+trường theo biểu đồ học tập, được trường thu hộ và chuyển cho các đơn vị liên quan.
+Các lớp học phần của bậc đại học hình thức chính quy khi tổ chức ngoài giờ hoặc ngoài
+giờ linh hoạt, theo nhu cầu của người học (tổ chức dạng dự thính) được tính học phí
+theo tín chỉ theo đơn giá dành riêng.
+Người học chuyển khóa học đến khóa sau, được tính học phí theo nguyên tắc của khoá
+sau.
+Người học đã hết thời gian đào tạo chuẩn được tính học phí theo nguyên tắc bù đắp chi
+phí đào tạo.
+Người học học khác bậc đào tạo, chương trình, hình thức đào tạo hoặc hình thức tổ
+chức lớp, được tính học phí theo đơn giá cao nhất của các loại hình này và cao nhất so
+với hình thức đào tạo, chương trình của người học.

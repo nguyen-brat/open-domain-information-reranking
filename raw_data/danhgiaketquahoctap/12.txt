@@ -1,0 +1,5 @@
+13. Theo như quy chế học vụ, đối với môn tự chọn, ĐTBTL được tính từ điểm cao nhất của số tín chỉ quy định trong nhóm các môn tự chọn. Tuy nhiên, sau khi tự tính lại ĐTBTL đã cập nhật thì em thấy môn tự chọn thứ 2 của em chỉ được tính như là một môn học khác, không có sự so sánh, lựa chọn so với môn học tự chọn thứ 1?
+
+Điểm trung bình tích lũy (ĐTBTL) là điểm trung bình của những học phần mà người học đã học tính từ đầu khóa học, tính theo điểm chính thức của học phần và trọng số là số tín chỉ của học phần đó.
+Trường hợp người học tích lũy nhiều hơn số học phần yêu cầu của một nhóm tự chọn, chọn các học phần trong số này để tính điểm trung bình tích lũy sao cho đảm bảo đủ số tín chỉ yêu cầu của nhóm tự chọn, đồng thời làm kết quả tính điểm trung bình tích lũy đạt cao nhất.
+Điểm trung bình tích lũy ngành (ĐTBTLN) được tính tương tự như điểm trung bình tích lũy nhưng chỉ xét các môn học thuộc CTĐT khóa-ngành/chuyên ngành đang theo học.

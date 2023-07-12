@@ -1,0 +1,18 @@
+Điều 10.Sử dụng hệ thống hỗ trợ giảng dạy trực tuyến
+Giảng viên phải dùng hệ thống hỗ trợ giảng dạy trực tuyến (Bách khoa e-learning -
+BKeL) trong hoạt động giảng dạy. Các thông tin sau đây cần phải đưa lên hệ thống
+này:
+- Đề cương học phần được sử dụng trong học kỳ. Đề cương phải đưa lên ngay trước
+tuần đầu tiên của lớp học.
+- Các bài giảng (slide bài giảng). Có nội dung phù hợp với nội dung bài giảng thực
+giảng trên lớp.
+- Đề kiểm tra và đáp án kiểm tra (nếu có tổ chức kiểm tra). Đưa lên sau khi tổ chức
+kiểm tra. Nếu là đề kiểm tra trắc nghiệm, đưa một đề kiểm tra mẫu và đáp án.
+- Đề thi và đáp án thi. Đưa lên sau khi tổ chức thi. Nếu là đề thi trắc nghiệm, đưa
+một đề thi mẫu và đáp án.
+- Kết quả đánh giá học phần, kể cả các điểm thành phần.
+- Mức độ đáp ứng chuẩn đầu ra của người học.
+Đối với các phần học hướng dẫn thảo luận, thí nghiệm của một học phần, các lớp học
+phần có thể được chia khác với các lớp học phần lý thuyết. Trong các trường hợp đó,
+giảng viên thực hiện theo quy định trên như một học phần bình thường, tuy nhiên bài
+giảng sẽ là tài liệu hướng dẫn thảo luận, thí nghiệm.

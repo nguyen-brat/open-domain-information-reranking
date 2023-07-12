@@ -1,0 +1,5 @@
+23.4 Hoàn trả học phí
+Người học được xem xét hoàn trả học phí trong trường hợp thanh toán học phí dư,
+phần dư của học phí tạm ứng sau khi khấu trừ học phí và một số trường hợp đặc biệt
+khác. Phần dư của học phí tạm ứng có thể được dùng để cấn trừ vào học phí của học
+kỳ kế tiếp.

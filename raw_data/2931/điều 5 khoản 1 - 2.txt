@@ -1,0 +1,12 @@
+5.1 Thời gian đào tạo
+Thời gian đào tạo chuẩn là số học kỳ chính được thiết kế để một người học trung bình
+có thể hoàn tất chương trình đào tạo một ngành, bậc và hình thức đào tạo.
+Thời gian đào tạo kế hoạch là số học kỳ chính được thiết kế theo kế hoạch giảng dạy
+rút gọn giúp người học sớm hoàn thành một khóa đào tạo theo một hình thức đào tạo
+cụ thể.
+Thời gian đào tạo tối thiểu là số học kỳ chính tối thiểu để người học cần để hoàn thành một khóa
+đào tạo theo một hình thức đào tạo cụ thể.
+Đối với người học đã được miễn trừ khối lượng tín chỉ tích lũy từ các khoá học, bậc
+học trước đó hoặc từ các cơ sở đào tạo khác, thời gian tối đa để người học hoàn thành
+khóa học được được
+giảm tương ứng với khối lượng được miễn trừ.

@@ -1,0 +1,10 @@
+14.1 Cảnh báo học tập
+Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như
+sau:
+- Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học
+trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24;
+m. Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới
+1,0 đối với các học kỳ tiếp theo;
+- Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ
+nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên
+trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo.

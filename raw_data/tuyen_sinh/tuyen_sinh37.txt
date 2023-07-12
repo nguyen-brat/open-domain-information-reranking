@@ -1,0 +1,2 @@
+Có thể học về thiết kế chip/thiết kế vi mạch trong ngành KTMT không?
+Hoàn toàn có thể, hiện tại thầy trò ngành Kỹ thuật Máy tính ở trường Đại học Bách khoa – ĐHQG TPHCM có liên kết rất chặt chẽ với những công ty thiết kế vi mạch hàng đầu khu vực TPHCM nói riêng và miền nam nói chung như Renesas, Marvell, AMCC,… Chương trình đào tạo có hẳng một môn liên quan đến thiết kế vi mạch được thiết kế và giảng dạy trực tiếp bởi chuyên gia hàng đầu từ Renesas Việt Nam.

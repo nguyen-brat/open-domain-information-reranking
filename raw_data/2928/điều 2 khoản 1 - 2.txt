@@ -1,0 +1,5 @@
+1. Tín chỉ
+Tín chỉ sử dụng để tính khối lượng lao động học tập của người học. Thời lượng
+lao động học tập của mỗi tín chỉ theo quy định. Riêng các học phần
+thực tập ngoài trường, một tín chỉ tương đương với 03-04 tuần thực tập tại cơ sở,
+với tối thiểu là 50 giờ thực hiện nhiệm vụ được giao trong quá trình thực tập.

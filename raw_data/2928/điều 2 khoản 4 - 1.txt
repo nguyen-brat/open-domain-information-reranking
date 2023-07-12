@@ -1,0 +1,9 @@
+4. Học phần tương đương, thay thế
+- Học phần tương tự: là các học phần/nhóm học phần có nội dung và khối
+lượng tương tự với nhau, thường ở các chương trình ngành/nhóm ngành
+khác nhau, cho phép người học tích luỹ để hoàn thành chương trình đào tạo của
+mình.
+- Học phần thay thế: là các học phần hoặc nhóm học phần được dùng để thay
+thế cho học phần hoặc nhóm học phần có khối lượng tương đương trong chương
+trình đào tạo của ngành, thường do không còn tổ chức giảng dạy nữa, cho phép
+người học tích luỹ để hoàn thành chương trình đào tạo của mình.

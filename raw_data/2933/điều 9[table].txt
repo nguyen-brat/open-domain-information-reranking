@@ -1,0 +1,20 @@
+Điều 9. Xếp trình độ năm học cho sinh viên
+Sinh viên được xếp trình độ năm học căn cứ số tín chỉ tích lũy được từ đầu khóa học
+(gọi tắt là N) và số tín chỉ trung bình một năm học theo kế hoạch học tập chuẩn (gọi
+tắt là M) và các ràng buộc khác, cụ thể như sau:
+- Trình độ năm thứ nhất: N < M;
+k. Trình độ năm thứ hai: M ≤ N < 2M và đạt chuẩn ngoại ngữ năm hai;
+- Trình độ năm thứ ba: 2M ≤ N < 3M và đạt chuẩn ngoại ngữ năm ba;
+l. Trình độ năm thứ tư: 3M ≤ N < 4M và đạt chuẩn ngoại ngữ năm tư;
+- Trình độ năm thứ năm: 4M ≤ N < 5M và đạt chuẩn ngoại ngữ năm tư.
+Khi xếp trình độ năm học làm căn cứ ràng buộc trong đăng ký học phần, M được tính
+là 85% số tín chỉ trung bình một năm học theo kế hoạch học tập chuẩn.
+M được quy định cụ thể như sau:
+Hình thức đào tạo M
+
+Kế hoạch Khi đăng ký học phần
+
+Chính quy 33 28
+Vừa làm vừa học, đào tạo từ xa 26 22
+Ngoài ra, sinh viên phải hoàn thành chương trình Giáo dục Quốc phòng - An ninh và
+Giáo dục Thể chất để có thể được xếp trình độ từ năm thứ ba.

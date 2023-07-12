@@ -1,0 +1,2 @@
+Có thể học về an ninh mạng trong ngành KTMT không?
+Hoàn toàn có thể, sinh viên khi tốt nghiệp ngành KTMT có khả năng phân tích đánh giá mức độ bảo mật của một hệ thống tính toán, một website; có khả năng thiết kế và hiện thực các hệ thống phòng chống tấn công mạng ở cả mức phần mềm (tốc độ thấp) và mức phần cứng bằng các thiết bị chuyên dụng (tốc độ cao). Ngoài ra, sinh viên còn được cung cấp những kiến thức hàn lâm cơ bản về mật mã học (mã khối, mã đối xứng, mã không đối xứng, chữ ký điện tử, blockchain).

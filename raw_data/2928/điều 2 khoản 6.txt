@@ -1,0 +1,7 @@
+6. Tín chỉ tự chọn tự do
+Là tín chỉ của các học phần người học được tự do đăng ký, không bị ràng buộc
+với ngành/chuyên ngành người học đang theo học. Tín chỉ tự chọn tự do chỉ
+được xem xét khi tích luỹ các học phần có kiến thức không trùng lắp với các
+kiến thức dùng để xét tốt nghiệp của chương trình đào tạo và không phải là các
+học phần thuộc khối kiến thức tốt nghiệp của một ngành khác. Hai học phần
+được xem là trùng lắp nếu có chuẩn đầu ra/nội dung trùng lắp đến 50%.

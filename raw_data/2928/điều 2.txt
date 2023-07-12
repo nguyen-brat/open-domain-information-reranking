@@ -1,0 +1,65 @@
+1. Tín chỉ
+Tín chỉ sử dụng để tính khối lượng lao động học tập của người học. Thời lượng
+lao động học tập của mỗi tín chỉ theo quy định hiện hành. Riêng các học phần
+thực tập ngoài trường, một tín chỉ tương ứng với 03-04 tuần thực tập tại cơ sở,
+với tối thiểu là 50 giờ thực hiện nhiệm vụ được giao trong quá trình thực tập.
+2. Học phần
+Một học phần được tổ chức trọn vẹn trong một học kỳ. Kiến thức trong mỗi học
+phần phải được phân theo cấp độ học phần, gắn với một mức trình độ theo năm
+học thiết kế. Cấp độ học phần được hiểu như sau: Một là các học phần chung
+dành cho người học ở tất cả các năm học (người học từ năm thứ nhất), Hai là
+các học phần cơ sở ngành bậc cử nhân (người học từ năm thứ hai), Ba là các
+học phần ngành ở bậc cử nhân (người học từ năm thứ ba), Bốn là các học phần
+ngành/chuyên ngành/khoá luận tốt nghiệp ở bậc cử nhân (người học từ năm thứ
+tư), Năm trở lên là các học phần ở bậc chuyên sâu đặc thù (người học từ năm
+thứ năm trong chương trình tích hợp từ bậc cử nhân lên bậc cao hơn, chương
+trình Kỹ sư Chất lượng cao Việt Pháp), ở bậc thạc sĩ và bậc tiến sĩ.
+Mỗi học phần có khối lượng 3-4 tín chỉ. Các học phần thuộc khối kiến thức giáo
+dục chung, khóa luận tốt nghiệp, luận văn thạc sĩ, luận án tiến sĩ có quy định
+riêng về khối lượng tín chỉ. Các học phần thực hành (bài tập, đồ án, thí nghiệm,
+thực hành, thực tập ngoài trường, ...) có thể có khối lượng nhỏ hơn 3 tín chỉ.
+Nội dung một học phần có thể bao gồm giảng dạy lý thuyết và thực hành, trong
+đó phần thực hành đảm bảo tối thiểu 20% khối lượng (tín chỉ) học phần.
+3. Điều kiện tiên quyết của học phần
+- Học phần A là học phần tiên quyết của học phần B: người học phải tích luỹ
+được học phần A trước khi đăng ký học học phần B. Trong trường hợp cần thiết,
+điều kiện này còn kèm theo kết quả học tập tối thiểu của học phần A từ một
+mức điểm cụ thể.
+- Học phần A là học phần song hành của học phần B: người học phải tích luỹ
+được học phần A trước khi đăng ký học phần B, hoặc phải tích luỹ cả học phần
+A và học phần B trong cùng một học kỳ (khi đó học phần B chỉ được xác nhận
+là đã tích luỹ khi học phần A đã được xác nhận là đã tích luỹ trong học kỳ đăng
+ký học).
+- Học phần A là học phần khuyến nghị của học phần B: người học nên tích luỹ
+hoặc tự chuẩn bị các kiến thức của học phần A trước khi đăng ký học phần B
+để đạt hiệu quả cao khi học học phần B.
+4. Học phần tương đương, thay thế
+- Học phần tương đương: là các học phần/nhóm học phần có nội dung và khối
+lượng tương đương với nhau, thường ở các chương trình ngành/nhóm ngành
+khác nhau, cho phép người học tích luỹ để hoàn thành chương trình đào tạo của
+mình.
+- Học phần thay thế: là các học phần hoặc nhóm học phần được dùng để thay
+thế cho học phần hoặc nhóm học phần có khối lượng tương đương trong chương
+trình đào tạo của ngành, thường do không còn tổ chức giảng dạy nữa, cho phép
+người học tích luỹ để hoàn thành chương trình đào tạo của mình.
+5. Đồ án định hướng công nghiệp
+Là đồ án có nội dung thực tế tại các doanh nghiệp, thực hiện tại các doanh
+nghiệp, với sự đồng hướng dẫn của giảng viên nhà trường và doanh nghiệp.
+Thành viên của tập thể đánh giá kết quả đồ án phải có tối thiểu 30% từ doanh
+nghiệp hướng dẫn đồ án.
+Các tín chỉ đồ án định hướng công nghiệp được xem tương đương với các tín
+chỉ thực tập.
+6. Tín chỉ tự chọn tự do
+Là tín chỉ của các học phần người học được tự do đăng ký, không bị ràng buộc
+với ngành/chuyên ngành người học đang theo học. Tín chỉ tự chọn tự do chỉ
+được xem xét khi tích luỹ các học phần có kiến thức không trùng lắp với các
+kiến thức dùng để xét tốt nghiệp của chương trình đào tạo và không phải là các
+học phần thuộc khối kiến thức tốt nghiệp của một ngành khác. Hai học phần
+được xem là trùng lắp nếu có chuẩn đầu ra/nội dung trùng lắp đến 50%.
+7. Chuẩn đầu ra của chương trình đào tạo
+Chuẩn đầu ra của chương trình đào tạo phải phù hợp với các quy định hiện hành,
+phù hợp với mô tả năng lực người học đối với từng trình độ theo khung trình
+độ quốc gia Việt Nam, bộ năng lực và phẩm chất sinh viên tốt nghiệp của trường
+và của Đại học Quốc gia Thành phố Hồ Chí Minh. Chuẩn đầu ra của chương
+trình đào tạo phải đo lường được để xây dựng chương trình đào tạo, thực hiện
+giảng dạy và kiểm tra đánh giá dựa trên chuẩn đầu ra.

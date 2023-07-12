@@ -1,0 +1,2 @@
+trường đh bách khoa lắp đặt hệ thống iot check-in bách khoa do giảng viên, sinh viên trường chế tạo
+nhằm chuẩn bị cho việc triển khai giảng dạy trực tiếp, trường đh bách khoa-đhqg-hcm tiến hành lắp đặt hệ thống iot check-in bách khoa do giảng viên, sinh viên trường chế tạo vào sáng nay 10/12/2021.

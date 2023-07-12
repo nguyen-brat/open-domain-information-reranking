@@ -1,0 +1,6 @@
+6.1 Huỷ đăng ký học phần
+Trong thời gian đăng ký học phần và trước khi học kỳ bắt đầu, sinh viên đăng ký và
+huỷ đăng ký các học phần.
+Các học phần huỷ đăng ký sẽ không được xếp thời khoá biểu và không bị tính học
+phí. Trường hợp gian dối, sinh viên sẽ bị kỷ luật và vẫn bị tính học phí cho các học
+phần này.

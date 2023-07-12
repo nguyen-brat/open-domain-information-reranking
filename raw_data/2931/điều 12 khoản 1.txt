@@ -1,0 +1,4 @@
+12.1 Quy trình thực hiện đồ án, bài tập lớn, tiểu luận thành phần
+Khoa quy định quy trình thực hiện đồ án chung cho toàn Khoa hoặc cho các học phần
+cụ thể, trong đó phải có các quy định về đánh giá tiến độ thực hiện một cách liên tục,
+điều kiện cấm thi và quy cách của bản báo cáo thuyết minh.

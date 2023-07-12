@@ -1,0 +1,10 @@
+ảng quy đổi điểm chứng chỉ VNU-  EPT
+	Anh văn Cơ bản	Anh văn 1	Anh văn 2	Anh văn 3	Anh văn 4
+200	Đạt
+218	Đạt		Đạt
+234	Đạt		Đạt		Đạt
+250	Đạt		Đạt		Đạt		Đạt
+260	Đạt		Đạt		Đạt		Đạt		Đạt
+270	Đạt		Đạt		Đạt		Đạt		Đạt
+280	Đạt		Đạt		Đạt		Đạt		Đạt
+290	Đạt		Đạt		Đạt		Đạt		Đạt

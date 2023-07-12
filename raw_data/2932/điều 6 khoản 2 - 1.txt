@@ -1,0 +1,6 @@
+6.2 Giao đề tài cho sinh viên
+Sinh viên có đăng ký học phần Khoá luận tốt nghiệp, đăng ký với Khoa để được giao
+đề tài.
+Khoa quy định quy trình giao đề tài cho sinh viên, như đề tài phát triển từ đồ án chuyên
+ngành hay đề tài mới, điều chỉnh tên đề tài hay nội dung đề tài, thay đổi giảng viên
+hướng dẫn, ... và các quy định cụ thể khác.

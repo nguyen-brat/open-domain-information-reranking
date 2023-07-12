@@ -1,0 +1,2 @@
+Thạc sĩ có 4 chuyên ngành: Khoa học Máy tính, Khoa học Dữ liệu, An ninh mạng, Kỹ thuật phần mềm. Vậy khi nào được chọn chuyên ngành (vào học kì mấy), vì luận văn và thực tập 2 phải theo chuyên ngành đã chọn
+Khuyến khích chứ không có ràng buộc. 

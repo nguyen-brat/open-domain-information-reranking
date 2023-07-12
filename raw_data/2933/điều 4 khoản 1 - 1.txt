@@ -1,0 +1,10 @@
+4.1 Hình thức tổ chức lớp học phần
+Tuỳ theo hình thức tổ chức lớp học phần, các lớp học phần được đặt tên gợi nhớ để
+thuận tiện trong công tác quản lý như:
+- Lớp học phần ngoài giờ (lớp tối) mở trong các học kỳ chính hoặc học kỳ phụ, chủ
+yếu dành cho các sinh viên vừa làm vừa học, có giờ học chủ yếu là ngoài giờ hành
+chính.
+d. Lớp học phần chuyên biệt dành cho từng chương trình, loại hình riêng như lớp
+dành cho chương trình Kỹ sư Việt-Pháp, chương trình Chất lượng cao, Chương
+trình Tài năng, ... Chỉ các sinh viên đúng chương trình, loại hình riêng này, hoặc
+một số tình huống ngoại lệ, mới được đăng ký học.

@@ -1,0 +1,5 @@
+Có các chuyên ngành/hướng nào trong ngành Kỹ thuật Máy tính?
+Có 3 chuyên ngành cụ thể ở ngành Kỹ thuật Máy tính ở trường Đại học Bách khoa – ĐHQG TPHCM:
+- Chuyên ngành Internet vạn vật và An ninh mạng: nếu theo đuổi chuyên ngành này, sinh viên sẽ đào sâu các kiến thức và kỹ năng liên quan đến các hướng Internet vạn vật; hướng mạng máy tính và an ninh mạng (chi tiết các hướng này đã nêu ở Câu 1)
+- Chuyên ngành Các hệ thống tính toán hiện đại: nếu theo đuổi chuyên ngành này, sinh viên sẽ đào sâu các kiến thức và kỹ năng liên quan đến các hướng trí tuệ nhân tạo, hướng hệ thống nhúng và hướng tính toán hiệu năng cao (chi tiết các hướng này đã nêu ở Câu 1)
+- Chuyên ngành Kỹ thuật Máy tính (trùng tên với ngành): sinh viên không theo một trong hai chuyên ngành cụ thể nêu trên sẽ được công nhận thuộc chuyên ngành này. Khi đó, sinh viên có thể học một các tổng quan tất cả các hướng đã nêu.

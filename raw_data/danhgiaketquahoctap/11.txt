@@ -1,0 +1,4 @@
+12. Em muốn hỏi là trên bảng điểm được in có in điểm TBHK hay chỉ in điểm TBTL ạ? Và quy định một môn học chỉ xuất hiện một lần với số điểm cao nhất đúng không ạ?
+
+Trong bảng điểm in có ĐTBHK, ĐTBTL và tất cả các môn SV theo học
+Khi SV có bằng tốt nghiệp sẽ được nhận 2 bảng điểm: 1 bảng điểm in tất cả các môn mà SV theo học suốt quá trình, 1 bảng phụ lục chỉ in điểm cao nhất.

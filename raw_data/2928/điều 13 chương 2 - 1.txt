@@ -1,0 +1,21 @@
+1. Kế hoạch được tạo ra có từ 14 - 18 tín chỉ cho một học kỳ, mỗi năm
+có 02 học kỳ và tổng tín chỉ trong một năm học không được vượt quá 34 tín chỉ.
+Các học phần Thực tập ngoài trường, Thực tập kỹ sư của chương trình bậc đại
+học được sắp xếp trong học kỳ thứ hai của năm học thứ ba, thứ tư và có thể vận
+hành trong học kỳ hè năm đó.
+2. Kế hoạch đào tạo dành cho hình thức vừa làm vừa học được thiết kế có từ 12
+- 14 tín chỉ/học kỳ, mỗi năm có 02 học kỳ và tổng tín chỉ một năm học không
+vượt quá 27 tín chỉ.
+3. Các tín chỉ tự chọn trong chương trình đào tạo bậc đại học, được phân bố vào
+tất cả các học kỳ, tối thiểu trong các học kỳ từ học kỳ 6.
+4. Số lượng tín chỉ cơ sở ngành bậc đại học là từ 18 - 34. Ngoài ra, cần có tối thiểu 7
+tín chỉ các học phần thực hành (bao gồm thí nghiệm/đồ án) và có tối thiểu 9 tín
+chỉ các học phần tự chọn tự do.
+5. Về chương trình Kỹ sư chất lượng cao Việt Pháp, yêu cầu thêm tối thiểu 6
+tín chỉ ở dạng đồ án định hướng công nghiệp.
+6. Đối với các chương trình tích hợp Đại học-Thạc sĩ, người học được phép tích
+lũy các học phần ở khối kiến thức “Cơ sở ngành/chuyên ngành bậc Thạc sĩ” để
+được miễn tối đa 12 tín chỉ tự chọn (và tự chọn tự do) trong khối kiến thức Cơ
+sở ngành/ Ngành/ Chuyên ngành ở bậc đại học. Tổng số tín chỉ thực học ở giai
+đoạn cử nhân là từ 120 tín chỉ, của chương trình Kỹ sư Việt-Pháp là từ 150 tín
+chỉ.

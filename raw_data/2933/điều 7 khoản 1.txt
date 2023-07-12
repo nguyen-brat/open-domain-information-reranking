@@ -1,0 +1,6 @@
+7.1 Ràng buộc điểm thành phần và điểm tổng kết
+Đối với các học phần có thí nghiệm, sinh viên sẽ bị cấm thi nếu có điểm nhỏ hơn 4,0
+(thang điểm 10).
+Đề cương học phần quy định chi tiết các điều kiện ràng buộc khác về điểm thành phần
+và điểm tổng kết, đảm bảo đúng quy định, chất lượng học tập và công bằng cho các
+sinh viên trong cùng học kỳ.

@@ -1,0 +1,7 @@
+6. SV làm thế nào để đạt cá môn anh văn (1, 2, 3, 4)?
+
++ Đăng ký học các môn anh văn (1, 2, 3, 4) theo chương trình đào tạo.
+
++ Đăng ký học các lớp Anh văn học theo nhu cầu (Anh văn 1A, 2A, 3A, 4A). Anh văn theo yêu cầu 1A, 2A, 3A, 4A sẽ tính ĐẠT các môn anh văn tương ứng, tính tích luỹ tín chỉ, không tính vào điểm trung bình tích lũy
+
++ Đăng ký nộp CCNN quốc tế và xét miễn các môn anh văn theo đúng quy định.

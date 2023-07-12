@@ -1,0 +1,2 @@
+2. Chuẩn đầu ra chuyên ngành của chương trình đào tạo là chi tiết hoá chuẩn
+đầu ra của chương trình đào tạo ngành.

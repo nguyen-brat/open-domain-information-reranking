@@ -1,0 +1,2 @@
+nghiên cứu dự báo covid-19 bằng ai của sinh viên bách khoa công bố quốc tế trên tạp chí q1
+bài báo có tựa đề: becaked - an explainable artificial intelligence model for covid-19 forecasting (becaked - mô hình trí tuệ nhân tạo với khả năng tự giải thích để dự báo covid-19) vừa được chấp thuận đăng trên tạp chí scientific reports được xếp loại q1 của nhà xuất bản springer nature.

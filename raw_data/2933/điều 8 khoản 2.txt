@@ -1,0 +1,5 @@
+8.2 Chương trình liên thông Đại học-Thạc sĩ
+Sinh viên chương trình liên thông Đại học-Thạc sĩ, khi có kết quả đạt các học phần ở
+bậc cao học, được đăng ký miễn điểm cho một số học phần tương ứng ở bậc đại học.
+Đối với chương trình tài năng, các học phần miễn ở bậc đại học không là các học phần
+tài năng.

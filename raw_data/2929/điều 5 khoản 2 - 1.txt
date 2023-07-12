@@ -1,0 +1,7 @@
+5.2 Hướng dẫn Bài tập lớn, Tiểu luận
+Khoa có thể phân công các giảng viên khác với giảng viên giảng dạy học phần để
+huớng dẫn phần bài tập lớn, tiểu luận theo yêu cầu của giảng viên hoặc yêu cầu chung
+của Khoa.
+Giảng viên hướng dẫn người học thực hiện bài tập lớn, tiểu luận theo quy trình hướng
+dẫn đồ án, hoặc có thể yêu cầu người học nộp bài theo từng phần, có thể phản hồi và
+chấm điểm từng phần.

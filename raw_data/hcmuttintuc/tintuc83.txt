@@ -1,0 +1,2 @@
+sinh viên sáng tạo hệ thống logistics tối ưu hoá quy trình thu gom rác hữu cơ
+dự án “hệ thống logistics tối ưu cho tái chế hữu cơ” của nhóm sinh viên trường đại học bách khoa, đhqg-hcm nhằm giúp thu gom và phân bố rác hữu cơ từ các đơn vị vận chuyển, đơn vị thu gom, các tổ chức xử lý đến các hộ dân thông qua phần mềm.

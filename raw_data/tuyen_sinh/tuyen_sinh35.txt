@@ -1,0 +1,2 @@
+Có thể học về hệ thống nhúng trong ngành KTMT không?
+Hoàn toàn có thể, sinh viên có thể phát triển được các hệ thống nhúng từ đơn giản đến phức tạp phục vụ cho nhiều mục đích khác nhau như giám sát, điều khiển thiết bị từ xa, điều khiển máy móc tự động.
