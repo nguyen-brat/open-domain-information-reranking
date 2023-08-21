@@ -9,28 +9,9 @@ from rank_bm25 import BM25Okapi
 import json
 import random
 from underthesea import word_tokenize
-from sentence_transformers.readers import InputExample
 from transformers import AutoTokenizer, RobertaConfig
 
-import torch
-import tensorflow as tf
-from torch.utils.data import Dataset
-import os
-import numpy as np
-from typing import Any, Tuple, List
-import re
-from rank_bm25 import BM25Okapi
-import json
-import random
-import math
-from underthesea import word_tokenize
-from sentence_transformers.readers import InputExample
-from transformers import AutoTokenizer, RobertaConfig
-from torch.utils.data import DataLoader
-from sentence_transformers.cross_encoder import CrossEncoder
-from sentence_transformers.cross_encoder.evaluation import CESoftmaxAccuracyEvaluator
-
-class DataloaderReranking():
+class DataloaderReranking(Dataset):
     def __init__(self,
             pth_raw_ctx:str, # path to raw context in json file
             pth_sample_ctx:str, # path to training sample in json file
@@ -59,28 +40,39 @@ class DataloaderReranking():
         self.num_hard_negative_sample = num_hard_negative_sample
         self.num_gold_sample = num_gold_sample
 
-    def __call__(
-            self,
-            batch_size=4,
-            sample_per_ques=6,
-            num_hard_negative_sample=1,
-            num_gold_sample=1,
-    ):
-        batch_question_and_context = self.generate_training_sample(
+        self.batch_question_and_context = self.generate_training_sample(
             batch_size=batch_size,
             sample_per_ques=sample_per_ques,
             num_hard_negative_sample=num_hard_negative_sample,
             num_gold_sample=num_gold_sample,
         )
-        training_sample = []
-        for batch in batch_question_and_context:
-            for question_id in range(len(batch["question"])):
-                for sample_id, label in zip(batch["context"][question_id], batch["positive_id"][question_id]):
-                    context = self.clean_context[sample_id]
-                    training_sample.append(InputExample(texts=[batch["question"][question_id],
-                                                               context],
-                                                               label=label))
-        return training_sample
+
+    def __len__(self):
+        return self.batch_size*len(self.batch_question_and_context)
+
+    def __getitem__(self, idx):
+        batch_number = idx//self.batch_size
+        idx_in_batch = idx%self.batch_size
+
+        batch_candidate = self.batch_question_and_context[batch_number]
+
+        question = batch_candidate["question"][idx_in_batch]
+        contexts = batch_candidate["context"][idx_in_batch]
+        positive_id = batch_candidate["positive_id"][idx_in_batch].type(torch.LongTensor).to(self.device)
+
+        contexts = list(np.array(self.clean_context)[np.array(contexts)])
+
+        questions = [question]*len(contexts)
+        question_context_input_ids = self.tokenizers(
+            questions,
+            contexts,
+        )
+
+        input_ids = question_context_input_ids["input_ids"].to(self.device)
+        token_type_ids = question_context_input_ids["token_type_ids"].to(self.device)
+        attention_mask = question_context_input_ids["attention_mask"].to(self.device)
+
+        return input_ids, token_type_ids, attention_mask, positive_id
 
 
     @staticmethod
@@ -252,7 +244,7 @@ class DataloaderReranking():
                 {
                     "question":["question 1", "question 2",..., "question n"],
                     "context"'[[id_00, id_01, id_0n], [id_10, id_11, id_1n], ..., [id_n0, id_n1, id_nn]],
-                    "positive_id": [[0, 0, 1, 0,.., 0], [1, 0, 0, ..., 1],..., [0, 0, 0, ..., 0]] (list of one hot vector)
+                    "positive)id": [[0, 0, 1, 0,.., 0], [1, 0, 0, ..., 1],..., [0, 0, 0, ..., 0]] (list of one hot vector)
                 }
                 '''
             dataset.append(batch_dataset)

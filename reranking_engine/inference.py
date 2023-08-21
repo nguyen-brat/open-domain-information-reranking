@@ -1,7 +1,7 @@
 import os
 from sentence_transformers.cross_encoder import CrossEncoder
 from trainer_rerank import trainer
-from another import DataloaderReranking
+from reranking_engine.Dataloader import DataloaderReranking
 from torch.utils.data import DataLoader
 from typing import List
 import numpy as np
@@ -19,8 +19,6 @@ class xlm_roberta_reranking:
             self.model = CrossEncoder('reranking_model')
         else:
             train_object = DataloaderReranking(
-                tokenize=MODEL, # tokenize version
-                config=MODEL, # tokenizer version
                 pth_raw_ctx = 'raw_context.json',
                 pth_sample_ctx = 'raw_sample_data.json',
                 batch_size=batch_size,
@@ -61,7 +59,10 @@ if __name__ == "__main__":
         [
             "bắt buộc phải có để hoàn thành việc học",
             "sinh viên phải có trình độ tiếng anh ít nhất 6.0 ilets hoặc tương đương khi tốt nghiệp",
-            "chứng chỉ tiếng anh là bắt buộc để tốt nghiệp",
+            "chứng chỉ tiếng anh ilets được công nhận quốc tế",
+            "không bắt buộc",
+            "tiếng anh tốt nghiếp chứng chỉ có cần",
+            "tiếng anh khác tiếng việt",
             "mặt trời mọc ở đằng tây thiên hạ ngạc nhiên chuyện là này",
             "không bắt buộc phải có",
         ]

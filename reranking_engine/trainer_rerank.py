@@ -1,7 +1,7 @@
 from torch.utils.data import DataLoader
 from sentence_transformers.cross_encoder import CrossEncoder
 from sentence_transformers.cross_encoder.evaluation import CESoftmaxAccuracyEvaluator
-from another import DataloaderReranking
+from reranking_engine.Dataloader import DataloaderReranking
 import math
 
 class trainer:
