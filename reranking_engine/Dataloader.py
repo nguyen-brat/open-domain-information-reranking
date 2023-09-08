@@ -13,10 +13,6 @@ class DataloaderReranking():
             pth_raw_ctx:str, # path to raw context in json file
             pth_sample_ctx:str, # path to training sample in json file
             segmentation:bool=True,
-            batch_size:int=32,
-            sample_per_ques:int=128,
-            num_hard_negative_sample:int=2,
-            num_gold_sample:int=2,
     ):
         with open(pth_raw_ctx, 'r') as f:
             self.raw_context = json.load(f)["context"]
@@ -25,15 +21,11 @@ class DataloaderReranking():
         self.segmentation = segmentation
         self.fit_context()
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-        self.batch_size = batch_size
-        self.sample_per_ques = sample_per_ques
-        self.num_hard_negative_sample = num_hard_negative_sample
-        self.num_gold_sample = num_gold_sample
 
     def __call__(
             self,
             batch_size=4,
-            sample_per_ques=6,
+            sample_per_ques=4,
             num_hard_negative_sample=1,
             num_gold_sample=1,
     ):
@@ -43,7 +35,14 @@ class DataloaderReranking():
             num_hard_negative_sample=num_hard_negative_sample,
             num_gold_sample=num_gold_sample,
         )
-        print(f'batch len is {len(batch_question_and_context)}')
+        ''' a batch_dataset look like
+        {
+            "question":["question 1", "question 2",..., "question n"],
+            "context"'[[id_00, id_01, id_0n], [id_10, id_11, id_1n], ..., [id_n0, id_n1, id_nn]],
+            "positive_id": [[0, 0, 1, 0,.., 0], [1, 0, 0, ..., 1],..., [0, 0, 0, ..., 0]] (list of one hot vector)
+        }
+        .......
+        '''
         training_sample = []
         for batch in batch_question_and_context:
             for question_id in range(len(batch["question"])):
@@ -86,13 +85,6 @@ class DataloaderReranking():
         shuffle = np.array(shuffle)
         return shuffle
 
-    @staticmethod
-    def n_gram(text:str, n:int):
-        '''
-        return a list of n_gram of text
-        '''
-        pass
-    
     def fit_context(self):
         self.clean_context = self.preprocess(self.raw_context)
         if self.segmentation:
@@ -149,11 +141,7 @@ class DataloaderReranking():
         # turn the document to index of raw_context
         positive_context_list_idx = [[self.raw_context.index(context) for context in positive_contexts] for positive_contexts in positive_context_list]
         # remove sample have all answer not in top 100 relavant documant by bm25
-        print(f'len of question list not remove not relative answer is: {len(question_list)}')
-        print(f'len of positive context list not remove not relative answer is: {len(question_list)}')
         question_list, positive_context_list_idx = self.remove_answer_not_match_bm25_retrieval(question_list, positive_context_list_idx)
-        print(f'len of question list remove not relative answer is: {len(question_list)}')
-        print(f'len of positive context list remove not relative answer is: {len(question_list)}')
         # cut list into batch of list
         batch_questions = [question_list[i:i+batch_size] for i in range(0, len(question_list)//batch_size*batch_size, batch_size)]
         batch_positive_contexts_idx = [positive_context_list_idx[i:i+batch_size] for i in range(0, len(positive_context_list_idx)//batch_size*batch_size, batch_size)]
@@ -207,12 +195,6 @@ class DataloaderReranking():
                 '''
             dataset.append(batch_dataset)
         return dataset
-
-    def _decode_token(self, tensor):
-        return self.tokenizer.decode(tensor)
-
-    def decode_token(self, text):
-        pass
 
 if __name__ == '__main__':
     pass
