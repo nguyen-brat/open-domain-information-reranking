@@ -46,5 +46,5 @@ class Biencoder(torch.nn.Module):
         loss = torch.mul(postitive_idx_per_question, logit).mean()
         return loss
 
-    def this_a_function(self):
-        print('hello')
+    def my_function(self):
+        print('hello my function')
