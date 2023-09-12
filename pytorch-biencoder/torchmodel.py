@@ -41,5 +41,5 @@ class Biencoder(torch.nn.Module):
     def i_want_a_function(self):
         print('bye')
 
-    def this_a_function(self):
-        print('i want a conflic')
+    def my_function(self):
+        print('hello my function')
