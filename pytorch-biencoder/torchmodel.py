@@ -46,6 +46,5 @@ class Biencoder(torch.nn.Module):
         loss = torch.mul(postitive_idx_per_question, logit).mean()
         return loss
 
-    def dot_product(self, q_vector, ctx_vector):
-        similar = torch.matmul(q_vector, torch.transpose(ctx_vector, 1, 2))
-        return similar
+    def this_a_function(self):
+        print('hello')
