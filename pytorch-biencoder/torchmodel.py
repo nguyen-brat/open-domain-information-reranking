@@ -38,13 +38,8 @@ class Biencoder(torch.nn.Module):
         return q_vector, ctx_vector # ctx_vector = (batch, sample_per_question, hidden_dim)
                                     # q_vector = (batch, hidden_dim)
 
-    def cal_loss(self, q_vector, ctx_vector, postitive_idx_per_question): # ctx_vector (batch_size, sample_per_ques, hidden_dim)
-        q_vector = torch.unsqueeze(q_vector, dim=1) # q_vecto (batch_size, hidden_dim) -> (batch_size, 1, hidden_dim)
-        scores = self.dot_product(q_vector, ctx_vector) # shape = (batch, 1, sample_per_ques)
-        scores = torch.squeeze(scores) # shape = (batch, sample_per_ques)
-        logit = -torch.nn.LogSoftmax(dim = -1)(scores)
-        loss = torch.mul(postitive_idx_per_question, logit).mean()
-        return loss
+    def i_want_a_function(self):
+        print('bye')
 
     def this_a_function(self):
         print('hello')
