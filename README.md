@@ -6,9 +6,9 @@
 from sentence_transformers.cross_encoder import CrossEncoder
 import torch
 
-model = CrossEncoder("nguyen-brat/pdt-reranking-model", max_length=512)
+model = CrossEncoder("nguyen-brat/pdt-reranking-model_v2", max_length=512)
 
-relevant_score = model.predict(['question', 'context'], apply_softmax=True)
+relevant_score = model.predict(['An đi học khi nào', 'Bé An đi học vào buổi chiều'], apply_softmax=True) apply_softmax=True)
 ```
 
 # Data detail
