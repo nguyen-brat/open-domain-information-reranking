@@ -12,7 +12,7 @@ batch 1:
         question: "Cần bao nhiêu tín chỉ để được tốt nghiệp ?"
         context: [
             "tùy vào ngành những cần khoảng 120 tín chỉ để được tốt nghiệp đối với chương trình cử nhân", # answer
-            "Thời gian đào tạo là 4 năm", # gold sample answer in sample 1 batch 2
+            "muốn được tốt nghiệp thì phải hoàn thành đủ chứng chỉ, có chứng chỉ tiếng anh và hoàn thành đủ ngành công tác xã hội", # gold sample, because it is the answer in sample 4
             "sinh viên muôn tốt nghiệp thì cần có chứng chỉ tiếng anh",
             ...
         ]
