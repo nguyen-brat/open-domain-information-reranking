@@ -1,5 +1,16 @@
 # reranking-opendomain-answer
 
+# Pretrained used
+
+```python
+from sentence_transformers.cross_encoder import CrossEncoder
+import torch
+
+model = CrossEncoder("nguyen-brat/pdt-reranking-model", max_length=512)
+
+relevant_score = model.predict(['question', 'context'], apply_softmax=True)
+```
+
 # Data detail
 One batch of train data include hard negative training sample (it in top 20 relative answer retrieval from bm-25 but not the answer),
 
